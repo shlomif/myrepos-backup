@@ -1,0 +1,3114 @@
+
+[.cargo/git/checkouts/uucore-cbba7adad0ea8524/8695734]
+checkout = git clone 'file:///home/shlomif/.cargo/git/db/uucore-cbba7adad0ea8524' '8695734'
+
+[.claws-mail]
+checkout = git clone 'git@bitbucket.org:shlomif/dot-claws-mail.git' '.claws-mail'
+
+[.cookiecutters/cookiecutter--shlomif-latemp-sites]
+checkout = git clone 'https://github.com/shlomif/cookiecutter--shlomif-latemp-sites.git' 'cookiecutter--shlomif-latemp-sites'
+
+[.cookiecutters/python-project-template]
+checkout = git clone 'https://github.com/Kwpolska/python-project-template.git' 'python-project-template'
+
+[.oh-my-zsh]
+checkout = git clone 'git@github.com:shlomif/oh-my-zsh.git' '.oh-my-zsh'
+
+[Arcs/fc-solve/freecell4-up-to-1e9]
+checkout = git clone 'git@github.com:shlomif/Freecell-4fc-solving-logs.git' 'freecell4-up-to-1e9'
+
+[Arcs/temp/postfix-problem]
+checkout = git clone 'git@github.com:shlomif/postfix-problem.git' 'postfix-problem'
+
+[Arcs/temp/shlomif-homepage/post-dest/post-incs/t2/humour/Queen-Padme-Tales/teaser]
+checkout = git clone 'https://github.com/shlomif/Star-Wars-opening-crawl-from-1977-Remake' 'teaser'
+
+[Arcs/temp/shlomif-homepage/post-dest/post-incs-reduced/post-incs/t2/humour/Queen-Padme-Tales/teaser]
+checkout = git clone 'https://github.com/shlomif/Star-Wars-opening-crawl-from-1977-Remake' 'teaser'
+
+[Arcs/temp/shlomif-homepage/post-dest/this-incs-reduced/post-incs/t2/humour/Queen-Padme-Tales/teaser]
+checkout = git clone 'https://github.com/shlomif/Star-Wars-opening-crawl-from-1977-Remake' 'teaser'
+
+[Backup/Arcs/mercurial-repos-converting-to-git--private]
+checkout = git clone 'git@github.com:shlomif/mercurial-repos-converting-to-git--private.git' 'mercurial-repos-converting-to-git--private'
+
+[Backup/Arcs/mercurial-repos-converting-to-git--private/old-hg/shlomi-fish-letters]
+checkout = hg clone '/home/shlomif/Backup/bitbucket--scm-backup/bitbucket--scm-backup/bitbucket_shlomif/shlomif----shlomi-fish-letters/repo' 'shlomi-fish-letters'
+
+[Backup/Arcs/mercurial-repos-converting-to-git--private/old-hg/shlomif-group-theory-studies]
+checkout = hg clone '/home/shlomif/Backup/bitbucket--scm-backup/bitbucket--scm-backup/bitbucket_shlomif/shlomif----shlomif-group-theory-studies/repo' 'shlomif-group-theory-studies'
+
+[Backup/Arcs/mercurial-repos-converting-to-git--private/shlomi-fish-letters]
+checkout = git clone 'git@github.com:shlomif/shlomi-fish-letters.git' 'shlomi-fish-letters'
+
+[Backup/Arcs/mercurial-repos-converting-to-git--private/shlomif-group-theory-studies]
+checkout = git clone 'git@github.com:shlomif/shlomif-group-theory-studies.git' 'shlomif-group-theory-studies'
+
+[Backup/conf/find-git-repos-wo-README]
+checkout = git clone 'git@bitbucket.org:shlomif/find-git-repos-without-readme.git' 'find-git-repos-wo-README'
+
+[Backup/from-freehackers.org/Download/unpack/git/git]
+checkout = git clone 'https://github.com/gitster/git.git' 'git'
+
+[Backup/from-freehackers.org/conf/trunk]
+checkout = hg clone 'https://shlomif@bitbucket.org/shlomif/shlomif-computer-settings' 'trunk'
+
+[Backup/from-nuc/2021-04-04/shlomif-from-nuc-backup-2021-04-04-disk-fs-disk-fs/home/shlomif/.cookiecutters/cookiecutter--shlomif-latemp-sites]
+checkout = git clone 'https://github.com/shlomif/cookiecutter--shlomif-latemp-sites.git' 'cookiecutter--shlomif-latemp-sites'
+
+[Backup/from-nuc/2021-04-04/shlomif-from-nuc-backup-2021-04-04-disk-fs-disk-fs/home/shlomif/.cookiecutters/python-project-template]
+checkout = git clone 'https://github.com/Kwpolska/python-project-template.git' 'python-project-template'
+
+[Backup/from-nuc/2021-04-04/shlomif-from-nuc-backup-2021-04-04-disk-fs-disk-fs/home/shlomif/Docs/Humour/Humanity-Movie-Site/old-hg]
+checkout = hg clone 'ssh://hg@bitbucket.org/shlomif/humanity-site-repository' 'old-hg'
+
+[Backup/from-nuc/2021-04-04/shlomif-from-nuc-backup-2021-04-04-disk-fs-disk-fs/home/shlomif/Docs/Humour/Humanity-Movie-Site/trunk]
+checkout = git clone 'https://github.com/shlomif/humanity-site-repository' 'trunk'
+
+[Backup/from-nuc/2021-04-04/shlomif-from-nuc-backup-2021-04-04-disk-fs-disk-fs/home/shlomif/Docs/Humour/The-Enemy/git]
+checkout = git clone 'git@github.com:shlomif/the-enemy.git' 'git'
+
+[Backup/from-nuc/2021-04-04/shlomif-from-nuc-backup-2021-04-04-disk-fs-disk-fs/home/shlomif/Docs/Humour/The-Enemy/old-hg/The-Enemy]
+checkout = hg clone 'ssh://hg@bitbucket.org/shlomif/the-enemy' 'The-Enemy'
+
+[Backup/from-nuc/2021-04-04/shlomif-from-nuc-backup-2021-04-04-disk-fs-disk-fs/home/shlomif/Docs/Humour/The-Song-Wide-Awake-By-Katy-Perry]
+checkout = git clone 'git@bitbucket.org:shlomif/the-song-wide-awake-by-katy-perry.git' 'The-Song-Wide-Awake-By-Katy-Perry'
+
+[Backup/from-nuc/2021-04-04/shlomif-from-nuc-backup-2021-04-04-disk-fs-disk-fs/home/shlomif/Docs/Images/captioned-image--badass-fluttershy--terminator-liberation]
+checkout = git clone 'git@github.com:shlomif/captioned-image--badass-fluttershy--terminator-liberation.git' 'captioned-image--badass-fluttershy--terminator-liberation'
+
+[Backup/from-nuc/2021-04-04/shlomif-from-nuc-backup-2021-04-04-disk-fs-disk-fs/home/shlomif/Docs/Notes/To_Do]
+checkout = git clone 'git@bitbucket.org:shlomif/shlomif-to_do-list.git' 'To_Do'
+
+[Backup/from-nuc/2021-04-04/shlomif-from-nuc-backup-2021-04-04-disk-fs-disk-fs/home/shlomif/Docs/Notes/git]
+checkout = git clone 'git@bitbucket.org:shlomif/shlomif-notes.git' 'git'
+
+[Backup/from-nuc/2021-04-04/shlomif-from-nuc-backup-2021-04-04-disk-fs-disk-fs/home/shlomif/Docs/Notes/old-hg/To_Do]
+checkout = hg clone 'ssh://hg@bitbucket.org/shlomif/shlomif-to_do-lists' 'To_Do'
+
+[Backup/from-nuc/2021-04-04/shlomif-from-nuc-backup-2021-04-04-disk-fs-disk-fs/home/shlomif/Docs/Notes/public]
+checkout = git clone 'git@github.com:shlomif/shlomif-public-notes.git' 'public'
+
+[Backup/from-nuc/2021-04-04/shlomif-from-nuc-backup-2021-04-04-disk-fs-disk-fs/home/shlomif/Docs/Personal/email/signature]
+checkout = git clone 'git@github.com:shlomif/shlomif-email-signature.git' 'signature'
+
+[Backup/from-nuc/2021-04-04/shlomif-from-nuc-backup-2021-04-04-disk-fs-disk-fs/home/shlomif/Docs/Personal/github-vanity-repo/shlomif]
+checkout = git clone 'git@github.com:shlomif/shlomif.git' 'shlomif'
+
+[Backup/from-nuc/2021-04-04/shlomif-from-nuc-backup-2021-04-04-disk-fs-disk-fs/home/shlomif/Docs/homepage/homepage/latemp]
+checkout = git clone 'https://github.com/thewml/latemp.git' 'latemp'
+
+[Backup/from-nuc/2021-04-04/shlomif-from-nuc-backup-2021-04-04-disk-fs-disk-fs/home/shlomif/Docs/homepage/homepage/shlomi-fish-sites--fonts]
+checkout = git clone 'https://github.com/shlomif/shlomi-fish-sites--fonts' 'shlomi-fish-sites--fonts'
+
+[Backup/from-nuc/2021-04-04/shlomif-from-nuc-backup-2021-04-04-disk-fs-disk-fs/home/shlomif/Docs/homepage/homepage/temp-git]
+checkout = git clone '/home/shlomif/Docs/homepage/homepage/trunk/.' 'temp-git'
+
+[Backup/from-nuc/2021-04-04/shlomif-from-nuc-backup-2021-04-04-disk-fs-disk-fs/home/shlomif/Docs/homepage/homepage/wml-affiliations]
+checkout = git clone 'https://github.com/shlomif/wml-affiliations.git' 'wml-affiliations'
+
+[Backup/from-nuc/2021-04-04/shlomif-from-nuc-backup-2021-04-04-disk-fs-disk-fs/home/shlomif/Docs/homepage/homepage/wml-extended-apis]
+checkout = git clone 'https://github.com/thewml/wml-extended-apis.git' 'wml-extended-apis'
+
+[Backup/from-nuc/2021-04-04/shlomif-from-nuc-backup-2021-04-04-disk-fs-disk-fs/home/shlomif/Docs/programming/irc/freenode-##programming/faq/FreenodesprogrammingWiki]
+checkout = git clone 'git@github.com:shlomif/Freenode-programming-channel-FAQ.git' 'FreenodesprogrammingWiki'
+
+[Backup/from-nuc/2021-04-04/shlomif-from-nuc-backup-2021-04-04-disk-fs-disk-fs/home/shlomif/Docs/programming/irc/freenode-##programming/faq/FreenodesprogrammingWiki/github-markdown-toc]
+checkout = git clone 'https://github.com/ekalinin/github-markdown-toc' 'github-markdown-toc'
+
+[Backup/from-nuc/2021-04-04/shlomif-from-nuc-backup-2021-04-04-disk-fs-disk-fs/home/shlomif/bin/private]
+checkout = git clone 'git@bitbucket.org:shlomif/home-shlomif-bin-private' 'private'
+
+[Backup/from-nuc/2021-04-04/shlomif-from-nuc-backup-2021-04-04-disk-fs-disk-fs/home/shlomif/progs/Bezier-Envelope-for-Inkscape]
+checkout = git clone 'https://github.com/shlomif/Bezier-Envelope-for-Inkscape' 'Bezier-Envelope-for-Inkscape'
+
+[Backup/from-nuc/2021-04-04/shlomif-from-nuc-backup-2021-04-04-disk-fs-disk-fs/home/shlomif/progs/C/shlomif-c-snippets]
+checkout = git clone 'https://github.com/shlomif/shlomif-c-snippets' 'shlomif-c-snippets'
+
+[Backup/from-nuc/2021-04-04/shlomif-from-nuc-backup-2021-04-04-disk-fs-disk-fs/home/shlomif/progs/games/black-hole-solitaire/trunk]
+checkout = git clone 'git@github.com:shlomif/black-hole-solitaire.git' 'trunk'
+
+[Backup/from-nuc/2021-04-04/shlomif-from-nuc-backup-2021-04-04-disk-fs-disk-fs/home/shlomif/progs/games/black-hole-solitaire/trunk/black-hole-solitaire/c-solver/xxHash-wrapper]
+checkout = git clone 'https://github.com/shlomif/xxHash-wrapper.git' 'xxHash-wrapper'
+
+[Backup/from-nuc/2021-04-04/shlomif-from-nuc-backup-2021-04-04-disk-fs-disk-fs/home/shlomif/progs/python/chinese-remainder/git]
+checkout = git clone 'git@github.com:shlomif/modint.git' 'git'
+
+[Backup/from-nuc/2021-04-04/shlomif-from-nuc-backup-2021-04-04-disk-fs-disk-fs/home/shlomif/progs/python/euler685-python3-solution-high-ram-consumption]
+checkout = git clone 'git@github.com:shlomif/euler685-python3-solution-high-ram-consumption.git' 'euler685-python3-solution-high-ram-consumption'
+
+[Backup/from-nuc/2021-04-04/shlomif-from-nuc-backup-2021-04-04-disk-fs-disk-fs/home/shlomif/progs/python/lp_solve-kakurasu-solver]
+checkout = git clone 'https://github.com/shlomif/lp-based-puzzle-solvers' 'lp_solve-kakurasu-solver'
+
+[Backup/from-nuc/2021-04-04/shlomif-from-nuc-backup-2021-04-04-disk-fs-disk-fs/home/shlomif/progs/python/old-hg/lp_solve-kakurasu-solver]
+checkout = hg clone 'ssh://hg@bitbucket.org/shlomif/lp-based-puzzle-solvers' 'lp_solve-kakurasu-solver'
+
+[Backup/from-nuc/2021-04-04/shlomif-from-nuc-backup-2021-04-04-disk-fs-disk-fs/home/shlomif/progs/python/rebookmaker]
+checkout = git clone 'https://github.com/shlomif/rebookmaker' 'rebookmaker'
+
+[Backup/from-nuc/2021-04-04/shlomif-from-nuc-backup-2021-04-04-disk-fs-disk-fs/home/shlomif/progs/python/shift_divmod]
+checkout = git clone 'https://github.com/shlomif/shift_divmod' 'shift_divmod'
+
+[Backup/from-nuc/2021-04-04/shlomif-from-nuc-backup-2021-04-04-disk-fs-disk-fs/home/shlomif/progs/python/sum_walker]
+checkout = git clone 'git@github.com:shlomif/sum_walker.git' 'sum_walker'
+
+[Backup/from-nuc/2021-04-04/shlomif-from-nuc-backup-2021-04-04-disk-fs-disk-fs/home/shlomif/progs/python/zenfilter]
+checkout = git clone 'git@github.com:shlomif/zenfilter.git' 'zenfilter'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/.cookiecutters/cookiecutter--shlomif-latemp-sites]
+checkout = git clone 'https://github.com/shlomif/cookiecutter--shlomif-latemp-sites.git' 'cookiecutter--shlomif-latemp-sites'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/.oh-my-zsh]
+checkout = git clone 'git@github.com:shlomif/oh-my-zsh.git' '.oh-my-zsh'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/Backup/conf/find-git-repos-without-readme]
+checkout = git clone 'git@bitbucket.org:shlomif/find-git-repos-without-readme.git' 'find-git-repos-without-readme'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/Docs/Notes/To_Do]
+checkout = hg clone 'ssh://hg@bitbucket.org/shlomif/shlomif-to_do-lists' 'To_Do'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/Docs/Personal/Cognitive/hg]
+checkout = hg clone 'ssh://hg@bitbucket.org/shlomif/cognitive-exercises' 'hg'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/Docs/Svn]
+checkout = hg clone 'ssh://hg@bitbucket.org/shlomif/shlomif-main-private' 'Svn'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/Docs/book-of-proof--solutions-for-exercises]
+checkout = git clone 'git@github.com:shlomif/book-of-proof--exercises-solutions.git' 'book-of-proof--solutions-for-exercises'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/Docs/programming/Perl/web-sites/perl-begin/trunk]
+checkout = git clone 'https://github.com/shlomif/perl-begin.git' 'trunk'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/Docs/programming/SCM/better-scm/site/latemp]
+checkout = hg clone 'https://shlomif@bitbucket.org/shlomif/latemp' 'latemp'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/Docs/programming/SCM/better-scm/site/trunk]
+checkout = git clone 'git@github.com:shlomif/better-scm.git' 'trunk'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/Docs/programming/irc/freenode-##programming/Freenode-programming-channel-FAQ]
+checkout = git clone 'git@github.com:shlomif/Freenode-programming-channel-FAQ.git' 'Freenode-programming-channel-FAQ'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/Docs/programming/validate-your-html]
+checkout = git clone 'git@github.com:shlomif/validate-your-html.git' 'validate-your-html'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/Download/Images/happy-birthday-cake-image-for-facebook]
+checkout = git clone 'git@github.com:shlomif/happy-birthday-photos.git' 'happy-birthday-cake-image-for-facebook'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/Download/unpack/Mageia/SPECS-only-for-deps/firefox/SPECS]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/firefox/current/SPECS' 'SPECS'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/Download/unpack/Mageia/SPECS-only-for-deps/inkscape/SPECS]
+checkout = svn co 'svn://svn.mageia.org/svn/packages/updates/5/inkscape/current/SPECS' 'SPECS'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/Download/unpack/Mageia/SPECS-only-for-deps/libvpx/SPECS]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/libvpx/current/SPECS' 'SPECS'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/Download/unpack/Mageia/SPECS-only-for-deps/pcmanfm-qt/SPECS]
+checkout = svn co 'svn://svn.mageia.org/svn/packages/updates/5/pcmanfm-qt/current/SPECS' 'SPECS'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/Download/unpack/Mageia/SPECS-only-for-deps/pidgin/SPECS]
+checkout = svn co 'svn://svn.mageia.org/svn/packages/updates/5/pidgin/current/SPECS' 'SPECS'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/Download/unpack/Mageia/SPECS-only-for-deps/vlc/SPECS]
+checkout = svn co 'svn://svn.mageia.org/svn/packages/updates/5/vlc/current/SPECS' 'SPECS'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/Download/unpack/Mageia/imagemagick]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/imagemagick/current' 'imagemagick'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/Download/unpack/Mageia/perl-CPANPLUS]
+checkout = svn co 'svn://svn.mageia.org/svn/packages/cauldron/perl-CPANPLUS/current' 'perl-CPANPLUS'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/Download/unpack/Mageia/perl-Cpanel-JSON-XS]
+checkout = svn co 'svn://svn.mageia.org/svn/packages/cauldron/perl-Cpanel-JSON-XS/current' 'perl-Cpanel-JSON-XS'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/Download/unpack/Mageia/pidgin]
+checkout = svn co 'svn://svn.mageia.org/svn/packages/cauldron/pidgin/current' 'pidgin'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/Download/unpack/Mageia/python-random2]
+checkout = svn co 'svn://svn.mageia.org/svn/packages/cauldron/python-random2/current' 'python-random2'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/Download/unpack/color-emoji]
+checkout = git clone 'https://gist.github.com/himalay/5c404a5f6653cb35154ceb3a6c606211' 'color-emoji'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/Download/unpack/conf/hg-prompt/hg-prompt]
+checkout = hg clone 'ssh://hg@bitbucket.org/sjl/hg-prompt' 'hg-prompt'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/Download/unpack/file/vcs/hgsubversion]
+checkout = hg clone 'https://bitbucket.org/durin42/hgsubversion' 'hgsubversion'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/Download/unpack/file/vim/neovim]
+checkout = git clone 'https://github.com/shlomif/neovim.git' 'neovim'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/Download/unpack/file/vim/neovim-qt]
+checkout = git clone 'https://github.com/equalsraf/neovim-qt.git' 'neovim-qt'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/Download/unpack/games/cube-composer]
+checkout = git clone 'git@github.com:shlomif/cube-composer.git' 'cube-composer'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/Download/unpack/games/infectors]
+checkout = git clone 'https://github.com/shlomif/infectors.git' 'infectors'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/Download/unpack/image-compress-experiment--alice_rotated/fractal-image-compression]
+checkout = git clone 'git@github.com:shlomif/fractal-image-compression.git' 'fractal-image-compression'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/Download/unpack/kde/konsole]
+checkout = git clone 'git://anongit.kde.org/konsole' 'konsole'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/Download/unpack/kde/kpat]
+checkout = git clone 'https://github.com/shlomif/kpat' 'kpat'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/Download/unpack/kde/kpat/arcanist]
+checkout = git clone 'https://github.com/phacility/arcanist.git' 'arcanist'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/Download/unpack/kde/kpat/libphutil]
+checkout = git clone 'https://github.com/phacility/libphutil.git' 'libphutil'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/Download/unpack/net/hexchat-vlcnp]
+checkout = git clone 'https://github.com/albert--/hexchat-vlcnp' 'hexchat-vlcnp'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/Download/unpack/prog/c/awesome-cpp]
+checkout = git clone 'git@github.com:shlomif/awesome-cpp.git' 'awesome-cpp'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/Download/unpack/prog/node-js/nvm]
+checkout = git clone 'https://github.com/creationix/nvm.git' 'nvm'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/Download/unpack/rpm-fusion/freecell-solver]
+checkout = git clone 'ssh://shlomif@pkgs.fedoraproject.org/rpms/freecell-solver' 'freecell-solver'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/Download/unpack/to-del/GitTutoring]
+checkout = git clone 'ssh://git@github.com/Stickmanx89/GitTutoring' 'GitTutoring'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/Download/unpack/to-del/coreutils]
+checkout = git clone 'https://github.com/uutils/coreutils' 'coreutils'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/Download/unpack/to-del/recomender_system]
+checkout = git clone 'https://github.com/shlomif/recomender_system' 'recomender_system'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/Download/unpack/to-del/rustlang-game]
+checkout = git clone 'https://github.com/ericshawlinux/rustlang-game' 'rustlang-game'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/apps/golang/src/github.com/dustin/go-humanize]
+checkout = git clone 'https://github.com/dustin/go-humanize' 'go-humanize'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/apps/golang/src/github.com/fsnotify/fsnotify]
+checkout = git clone 'https://github.com/fsnotify/fsnotify' 'fsnotify'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/apps/golang/src/github.com/matryer/try]
+checkout = git clone 'https://github.com/matryer/try' 'try'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/apps/golang/src/github.com/spf13/pflag]
+checkout = git clone 'https://github.com/spf13/pflag' 'pflag'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/apps/golang/src/github.com/tdewolff/minify]
+checkout = git clone 'https://github.com/tdewolff/minify' 'minify'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/apps/golang/src/github.com/tdewolff/parse]
+checkout = git clone 'https://github.com/tdewolff/parse' 'parse'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/apps/golang/src/golang.org/x/sys]
+checkout = git clone 'https://go.googlesource.com/sys' 'sys'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/bin/private]
+checkout = hg clone 'ssh://hg@bitbucket.org/shlomif/shlomif-home-bin-private' 'private'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/progs/C/cmake-modules/hg/shlomif-cmake-modules]
+checkout = hg clone 'ssh://hg@bitbucket.org/shlomif/shlomif-cmake-modules' 'shlomif-cmake-modules'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/progs/C/fortune-mod]
+checkout = git clone 'git@github.com:shlomif/fortune-mod.git' 'fortune-mod'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/progs/C/gtk3-cmake-hello-world]
+checkout = git clone 'git@github.com:shlomif/gtk3-cmake-examples.git' 'gtk3-cmake-hello-world'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/progs/Work/BDR]
+checkout = git clone 'git@bitbucket.org:shlomif/bdr-linux-driver-project.git' 'BDR'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/progs/cmake/shlomif-cmake-modules]
+checkout = hg clone 'https://bitbucket.org/shlomif/shlomif-cmake-modules' 'shlomif-cmake-modules'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/progs/freecell/git/freecell-pro-impossible-deals]
+checkout = git clone 'https://github.com/shlomif/freecell-pro-impossible-deals' 'freecell-pro-impossible-deals'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/progs/freecell/git/freecell-pro-intractable-deals]
+checkout = git clone 'https://github.com/shlomif/freecell-pro-intractable-deals' 'freecell-pro-intractable-deals'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/progs/freecell/git/ids-whitelist]
+checkout = git clone 'git@github.com:shlomif/fc-solve--ids-whitelist.git' 'ids-whitelist'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/progs/games/black-hole-solitaire/trunk]
+checkout = git clone 'git@github.com:shlomif/black-hole-solitaire.git' 'trunk'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/progs/perl/alert/http-based/hg]
+checkout = hg clone 'https://bitbucket.org/shlomif/app-notifier' 'hg'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/progs/perl/cpan/App/CSV2Chart]
+checkout = git clone 'https://github.com/shlomif/CSV2Chart' 'CSV2Chart'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/progs/perl/cpan/App/Notifier/App-Notifier]
+checkout = hg clone 'ssh://hg@bitbucket.org/shlomif/app-notifier' 'App-Notifier'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/progs/perl/cpan/Code/perl-Code-TidyAll-Plugin-Flake8]
+checkout = git clone 'https://github.com/shlomif/perl-Code-TidyAll-Plugin-Flake8' 'perl-Code-TidyAll-Plugin-Flake8'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/progs/perl/snippets]
+checkout = git clone 'git@github.com:shlomif/shlomif-snippets.git' 'snippets'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/progs/quadpres/trunk]
+checkout = git clone 'git@github.com:shlomif/quad-pres.git' 'trunk'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/progs/riddles/golf/golf.shinh.org/caddy-tool-for-golfers/ags]
+checkout = git clone 'https://github.com/shlomif/ags.git' 'ags'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/progs/riddles/golf/golf.shinh.org/caddy-tool-for-golfers/caddy]
+checkout = git clone 'git@github.com:shlomif/caddy.git' 'caddy'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/progs/riddles/project-euler/git]
+checkout = git clone 'git@bitbucket.org:shlomif/project-euler-git.git' 'git'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/progs/rshasum]
+checkout = git clone 'https://github.com/shlomif/rshasum' 'rshasum'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/progs/wml/Latemp/cookiecutter--shlomif-latemp-sites]
+checkout = git clone 'https://github.com/shlomif/cookiecutter--shlomif-latemp-sites' 'cookiecutter--shlomif-latemp-sites'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/progs/wml/Latemp/latemp/trunk]
+checkout = git clone 'git@github.com:thewml/latemp.git' 'trunk'
+
+[Backup/laptop/2019-09-09-full-take2/shlomif/progs/wml/wml-itself/core/trunk]
+checkout = git clone 'git@github.com:thewml/website-meta-language.git' 'trunk'
+
+[Backup/rsync.net/TRIM/home/shlomif/Docs/Diary/git]
+checkout = git clone 'https://github.com/shlomif/unarmed-blog' 'git'
+
+[Backup/rsync.net/TRIM/home/shlomif/Docs/Diary/perl/blogs.perl.org-entries]
+checkout = git clone 'https://github.com/shlomif/blogs.perl.org-entries/' 'blogs.perl.org-entries'
+
+[Backup/rsync.net/TRIM/home/shlomif/Docs/Diary/perl/use.perl.org-journal-entries]
+checkout = git clone 'https://github.com/shlomif/use.perl.org-journal-entries/' 'use.perl.org-journal-entries'
+
+[Backup/rsync.net/TRIM/home/shlomif/Docs/IGLU/hackers-il/hackers-il-site]
+checkout = git clone 'https://github.com/shlomif/hackers-il-site' 'hackers-il-site'
+
+[Backup/rsync.net/TRIM/home/shlomif/Docs/IGLU/hamakor/hamakor-prize]
+checkout = git clone 'https://github.com/shlomif/hamakor-prize' 'hamakor-prize'
+
+[Backup/rsync.net/TRIM/home/shlomif/Docs/Notes/Passwords]
+checkout = git clone 'git@github.com:shlomif/passwords.git' 'Passwords'
+
+[Backup/rsync.net/TRIM/home/shlomif/Docs/Personal/Cognitive/git]
+checkout = git clone 'git@bitbucket.org:shlomif/cognitive-exercises-git.git' 'git'
+
+[Backup/rsync.net/TRIM/home/shlomif/Docs/homepage/homepage/gh-profile-page/shlomif]
+checkout = git clone 'git@github.com:shlomif/shlomif.git' 'shlomif'
+
+[Backup/rsync.net/TRIM/home/shlomif/Docs/homepage/wml-affiliations]
+checkout = git clone 'https://github.com/shlomif/wml-affiliations' 'wml-affiliations'
+
+[Backup/rsync.net/TRIM/home/shlomif/Docs/math/Group-Theory/git]
+checkout = git clone 'git@bitbucket.org:shlomif/shlomif-group-theory-studies-git' 'git'
+
+[Backup/rsync.net/TRIM/home/shlomif/Docs/programming/about-supporting-older-perl5-releases]
+checkout = git clone 'git@github.com:shlomif/supporting-older-perl5-releases.git' 'about-supporting-older-perl5-releases'
+
+[Backup/rsync.net/TRIM/home/shlomif/Docs/programming/fedora-blog-replies]
+checkout = git clone 'git@github.com:shlomif/fedora-blog-replies.git' 'fedora-blog-replies'
+
+[Backup/rsync.net/TRIM/home/shlomif/Docs/programming/static-site-generators--wikipedia]
+checkout = git clone 'https://github.com/shlomif/static-site-generators--wikipedia' 'static-site-generators--wikipedia'
+
+[Backup/rsync.net/TRIM/home/shlomif/Docs/programming/why-the-BSDs-should-not-blame-USL-vs-BSDi-for-linux-dominance]
+checkout = git clone 'git@github.com:shlomif/why-the-BSDs-should-not-blame-USL-vs-BSDi-for-linux-dominance.git' 'why-the-BSDs-should-not-blame-USL-vs-BSDi-for-linux-dominance'
+
+[Backup/rsync.net/TRIM/home/shlomif/progs/C/cmake-modules/trunk]
+checkout = git clone 'https://github.com/shlomif/shlomif-cmake-modules' 'trunk'
+
+[Backup/rsync.net/TRIM/home/shlomif/progs/dev-null-service]
+checkout = git clone 'git@github.com:shlomif/dev-null-service.git' 'dev-null-service'
+
+[Backup/rsync.net/TRIM/home/shlomif/progs/games/fortune2rpm/fortunes-to-package]
+checkout = git clone 'https://github.com/shlomif/fortunes-to-packages' 'fortunes-to-package'
+
+[Backup/rsync.net/TRIM/home/shlomif/progs/games/fortune2rpm/fortunes-to-package/generic-fortune-rpm-spec/fortunes]
+checkout = git clone 'https://github.com/JKirchartz/fortunes' 'fortunes'
+
+[Backup/rsync.net/TRIM/home/shlomif/progs/perl/forums/irc/freenode/ZadYree/git]
+checkout = git clone 'https://github.com/shlomif/perl-ipc-run-example' 'git'
+
+[Backup/rsync.net/TRIM/home/shlomif/progs/perl/qt/git]
+checkout = git clone 'https://github.com/shlomif/qt-minicalc' 'git'
+
+[Backup/rsync.net/TRIM/home/shlomif/progs/racket/git]
+checkout = git clone 'https://github.com/shlomif/shlomif-racket-playground' 'git'
+
+[Backup/rsync.net/TRIM/home/shlomif/progs/riddles/project-euler/euler630-mniip]
+checkout = git clone 'https://github.com/hasufell/euler630-mniip' 'euler630-mniip'
+
+[Backup/rsync.net/TRIM/home/shlomif/progs/riddles/project-euler/pypy3-code--slowdown]
+checkout = git clone 'git@github.com:shlomif/pypy3-code--slowdown.git' 'pypy3-code--slowdown'
+
+[Backup/rsync.net/TRIM/home/shlomif/progs/vim/vim-screenplay-text]
+checkout = git clone 'git@github.com:shlomif/vim-screenplay-text.git' 'vim-screenplay-text'
+
+[Backup/rsync.net/unpack/home/shlomif/Docs/Diary/git]
+checkout = git clone 'https://github.com/shlomif/unarmed-blog' 'git'
+
+[Backup/rsync.net/unpack/home/shlomif/Docs/Diary/perl/blogs.perl.org-entries]
+checkout = git clone 'https://github.com/shlomif/blogs.perl.org-entries/' 'blogs.perl.org-entries'
+
+[Backup/rsync.net/unpack/home/shlomif/Docs/Diary/perl/use.perl.org-journal-entries]
+checkout = git clone 'https://github.com/shlomif/use.perl.org-journal-entries/' 'use.perl.org-journal-entries'
+
+[Backup/rsync.net/unpack/home/shlomif/Docs/IGLU/hackers-il/hackers-il-site]
+checkout = git clone 'https://github.com/shlomif/hackers-il-site' 'hackers-il-site'
+
+[Backup/rsync.net/unpack/home/shlomif/Docs/IGLU/hamakor/hamakor-prize]
+checkout = git clone 'https://github.com/shlomif/hamakor-prize' 'hamakor-prize'
+
+[Backup/rsync.net/unpack/home/shlomif/Docs/Notes/Passwords]
+checkout = git clone 'git@github.com:shlomif/passwords.git' 'Passwords'
+
+[Backup/rsync.net/unpack/home/shlomif/Docs/Personal/Cognitive/git]
+checkout = git clone 'git@bitbucket.org:shlomif/cognitive-exercises-git.git' 'git'
+
+[Backup/rsync.net/unpack/home/shlomif/Docs/homepage/homepage/gh-profile-page/shlomif]
+checkout = git clone 'git@github.com:shlomif/shlomif.git' 'shlomif'
+
+[Backup/rsync.net/unpack/home/shlomif/Docs/homepage/wml-affiliations]
+checkout = git clone 'https://github.com/shlomif/wml-affiliations' 'wml-affiliations'
+
+[Backup/rsync.net/unpack/home/shlomif/Docs/math/Group-Theory/git]
+checkout = git clone 'git@bitbucket.org:shlomif/shlomif-group-theory-studies-git' 'git'
+
+[Backup/rsync.net/unpack/home/shlomif/Docs/programming/about-supporting-older-perl5-releases]
+checkout = git clone 'git@github.com:shlomif/supporting-older-perl5-releases.git' 'about-supporting-older-perl5-releases'
+
+[Backup/rsync.net/unpack/home/shlomif/Docs/programming/fedora-blog-replies]
+checkout = git clone 'git@github.com:shlomif/fedora-blog-replies.git' 'fedora-blog-replies'
+
+[Backup/rsync.net/unpack/home/shlomif/Docs/programming/static-site-generators--wikipedia]
+checkout = git clone 'https://github.com/shlomif/static-site-generators--wikipedia' 'static-site-generators--wikipedia'
+
+[Backup/rsync.net/unpack/home/shlomif/Docs/programming/why-the-BSDs-should-not-blame-USL-vs-BSDi-for-linux-dominance]
+checkout = git clone 'git@github.com:shlomif/why-the-BSDs-should-not-blame-USL-vs-BSDi-for-linux-dominance.git' 'why-the-BSDs-should-not-blame-USL-vs-BSDi-for-linux-dominance'
+
+[Backup/rsync.net/unpack/home/shlomif/progs/C/cmake-modules/trunk]
+checkout = git clone 'https://github.com/shlomif/shlomif-cmake-modules' 'trunk'
+
+[Backup/rsync.net/unpack/home/shlomif/progs/dev-null-service]
+checkout = git clone 'git@github.com:shlomif/dev-null-service.git' 'dev-null-service'
+
+[Backup/rsync.net/unpack/home/shlomif/progs/games/fortune2rpm/fortunes-to-package]
+checkout = git clone 'https://github.com/shlomif/fortunes-to-packages' 'fortunes-to-package'
+
+[Backup/rsync.net/unpack/home/shlomif/progs/games/fortune2rpm/fortunes-to-package/generic-fortune-rpm-spec/fortunes]
+checkout = git clone 'https://github.com/JKirchartz/fortunes' 'fortunes'
+
+[Backup/rsync.net/unpack/home/shlomif/progs/perl/forums/irc/freenode/ZadYree/git]
+checkout = git clone 'https://github.com/shlomif/perl-ipc-run-example' 'git'
+
+[Backup/rsync.net/unpack/home/shlomif/progs/perl/qt/git]
+checkout = git clone 'https://github.com/shlomif/qt-minicalc' 'git'
+
+[Backup/rsync.net/unpack/home/shlomif/progs/racket/git]
+checkout = git clone 'https://github.com/shlomif/shlomif-racket-playground' 'git'
+
+[Backup/rsync.net/unpack/home/shlomif/progs/riddles/project-euler/euler630-mniip]
+checkout = git clone 'https://github.com/hasufell/euler630-mniip' 'euler630-mniip'
+
+[Backup/rsync.net/unpack/home/shlomif/progs/riddles/project-euler/pypy3-code--slowdown]
+checkout = git clone 'git@github.com:shlomif/pypy3-code--slowdown.git' 'pypy3-code--slowdown'
+
+[Backup/rsync.net/unpack/home/shlomif/progs/vim/vim-screenplay-text]
+checkout = git clone 'git@github.com:shlomif/vim-screenplay-text.git' 'vim-screenplay-text'
+
+[Backup/usr-fortunes/git]
+checkout = git clone 'git@github.com:shlomif/usr-share-games-fortunes--backup.git' 'git'
+
+[Backup/usr-share-games-fortunes--backup]
+checkout = git clone 'https://github.com/shlomif/usr-share-games-fortunes--backup' 'usr-share-games-fortunes--backup'
+
+[Backup/virtual-machines/fedora-rawhide/home-shlomif/.oh-my-zsh]
+checkout = git clone 'https://github.com/shlomif/oh-my-zsh.git' '.oh-my-zsh'
+
+[Backup/virtual-machines/fedora-rawhide/home-shlomif/Download/unpack/prog/web/validator-1.1]
+checkout = git clone 'https://github.com/periapt/w3c-sgml-lib' 'validator-1.1'
+
+[Backup/virtual-machines/fedora-rawhide/home-shlomif/cereal]
+checkout = git clone 'ssh://shlomif@pkgs.fedoraproject.org/rpms/cereal' 'cereal'
+
+[Backup/virtual-machines/fedora-rawhide/home-shlomif/fedora-active-user]
+checkout = git clone 'https://github.com/pypingou/fedora-active-user' 'fedora-active-user'
+
+[Backup/virtual-machines/fedora-rawhide/home-shlomif/fedora-active-user/fedora-packager]
+checkout = git clone 'https://pagure.io/fedora-packager' 'fedora-packager'
+
+[Backup/virtual-machines/fedora-rawhide/home-shlomif/fedora-srpms/PySolFC]
+checkout = git clone 'ssh://shlomif@pkgs.fedoraproject.org/forks/shlomif/rpms/PySolFC.git' 'PySolFC'
+
+[Backup/virtual-machines/fedora-rawhide/home-shlomif/fedora-srpms/black-hole-solver]
+checkout = git clone 'ssh://shlomif@pkgs.fedoraproject.org/rpms/black-hole-solver' 'black-hole-solver'
+
+[Backup/virtual-machines/fedora-rawhide/home-shlomif/fedora-srpms/black-hole-solver/black-hole-solver-0.20.0/xxHash-wrapper]
+checkout = git clone 'https://github.com/shlomif/xxHash-wrapper.git' 'xxHash-wrapper'
+
+[Backup/virtual-machines/fedora-rawhide/home-shlomif/fedora-srpms/black-hole-solver/black-hole-solver-0.22.0/xxHash-wrapper]
+checkout = git clone 'https://github.com/shlomif/xxHash-wrapper.git' 'xxHash-wrapper'
+
+[Backup/virtual-machines/fedora-rawhide/home-shlomif/fedora-srpms/black-hole-solver/black-hole-solver-0.24.0/xxHash-wrapper]
+checkout = git clone 'https://github.com/shlomif/xxHash-wrapper.git' 'xxHash-wrapper'
+
+[Backup/virtual-machines/fedora-rawhide/home-shlomif/fedora-srpms/fortune-mod]
+checkout = git clone 'ssh://shlomif@pkgs.fedoraproject.org/forks/shlomif/rpms/fortune-mod.git' 'fortune-mod'
+
+[Backup/virtual-machines/fedora-rawhide/home-shlomif/fedora-srpms/fortune-mod/fortune-mod]
+checkout = git clone 'ssh://shlomif@pkgs.fedoraproject.org/rpms/fortune-mod' 'fortune-mod'
+
+[Backup/virtual-machines/fedora-rawhide/home-shlomif/fedora-srpms/fortune-mod/fortune-mod/fortune-mod]
+checkout = git clone 'ssh://shlomif@pkgs.fedoraproject.org/rpms/fortune-mod' 'fortune-mod'
+
+[Backup/virtual-machines/fedora-rawhide/home-shlomif/fedora-srpms/freecell-solver]
+checkout = git clone 'ssh://shlomif@pkgs.fedoraproject.org/rpms/freecell-solver' 'freecell-solver'
+
+[Backup/virtual-machines/fedora-rawhide/home-shlomif/fedora-srpms/perl-Dir-Manifest]
+checkout = git clone 'ssh://shlomif@pkgs.fedoraproject.org/rpms/perl-Dir-Manifest' 'perl-Dir-Manifest'
+
+[Backup/virtual-machines/fedora-rawhide/home-shlomif/fedora-srpms/perl-Games-Solitaire-Verify]
+checkout = git clone 'ssh://shlomif@pkgs.fedoraproject.org/rpms/perl-Games-Solitaire-Verify' 'perl-Games-Solitaire-Verify'
+
+[Backup/virtual-machines/fedora-rawhide/home-shlomif/fedora-srpms/perl-Moose]
+checkout = git clone 'ssh://shlomif@pkgs.fedoraproject.org/rpms/perl-Moose' 'perl-Moose'
+
+[Backup/virtual-machines/fedora-rawhide/home-shlomif/fedora-srpms/perl-Test-RunValgrind]
+checkout = git clone 'ssh://shlomif@pkgs.fedoraproject.org/rpms/perl-Test-RunValgrind' 'perl-Test-RunValgrind'
+
+[Backup/virtual-machines/fedora-rawhide/home-shlomif/fedora-srpms/python-freecell_solver]
+checkout = git clone 'ssh://shlomif@pkgs.fedoraproject.org/rpms/python-freecell_solver' 'python-freecell_solver'
+
+[Backup/virtual-machines/fedora-rawhide/home-shlomif/fedora-srpms/python-pycotap]
+checkout = git clone 'ssh://shlomif@pkgs.fedoraproject.org/rpms/python-pycotap' 'python-pycotap'
+
+[Backup/virtual-machines/fedora-rawhide/home-shlomif/fedora-srpms/python-pysol-cards]
+checkout = git clone 'ssh://shlomif@pkgs.fedoraproject.org/rpms/python-pysol-cards' 'python-pysol-cards'
+
+[Backup/virtual-machines/fedora-rawhide/home-shlomif/fedora-srpms/rinutils]
+checkout = git clone 'ssh://shlomif@pkgs.fedoraproject.org/rpms/rinutils' 'rinutils'
+
+[Backup/virtual-machines/fedora-rawhide/home-shlomif/freecell-solver]
+checkout = git clone 'ssh://shlomif@pkgs.fedoraproject.org/rpms/freecell-solver' 'freecell-solver'
+
+[Backup/virtual-machines/fedora-rawhide/home-shlomif/progs/Rpms/SRPMS/perl-Games-Solitaire-Verify]
+checkout = git clone 'ssh://shlomif@pkgs.fedoraproject.org/rpms/perl-Games-Solitaire-Verify' 'perl-Games-Solitaire-Verify'
+
+[Docs/Diary/Private]
+checkout = git clone 'git@bitbucket.org:shlomif/shlomif-private-diary.git' 'Private'
+
+[Docs/Diary/git]
+checkout = git clone 'https://github.com/shlomif/unarmed-blog' 'git'
+
+[Docs/Diary/perl/blogs.perl.org-entries]
+checkout = git clone 'https://github.com/shlomif/blogs.perl.org-entries/' 'blogs.perl.org-entries'
+
+[Docs/Diary/perl/old-hg/blogs.perl.org]
+checkout = hg clone 'ssh://hg@bitbucket.org/shlomif/blogs.perl.org-entries' 'blogs.perl.org'
+
+[Docs/Diary/perl/old-hg/use.perl.org]
+checkout = hg clone 'ssh://hg@bitbucket.org/shlomif/use.perl.org-journal-entries' 'use.perl.org'
+
+[Docs/Diary/perl/use.perl.org-journal-entries]
+checkout = git clone 'https://github.com/shlomif/use.perl.org-journal-entries/' 'use.perl.org-journal-entries'
+
+[Docs/Diary/shlomif-old-advogato-diary]
+checkout = git clone 'https://github.com/shlomif/shlomif-old-advogato-diary' 'shlomif-old-advogato-diary'
+
+[Docs/Humour/Humanity-Movie-Site/trunk]
+checkout = git clone 'https://github.com/shlomif/humanity-site-repository' 'trunk'
+
+[Docs/Humour/The-Enemy/git]
+checkout = git clone 'git@github.com:shlomif/the-enemy.git' 'git'
+
+[Docs/Humour/The-Enemy/old-hg/The-Enemy]
+checkout = hg clone 'ssh://hg@bitbucket.org/shlomif/the-enemy' 'The-Enemy'
+
+[Docs/Humour/The-Song-Wide-Awake-By-Katy-Perry]
+checkout = git clone 'git@bitbucket.org:shlomif/the-song-wide-awake-by-katy-perry.git' 'The-Song-Wide-Awake-By-Katy-Perry'
+
+[Docs/Humour/subtitles/dailygrace-on-youtube/git]
+checkout = git clone 'git@github.com:shlomif/subtitles-for-dailygrace-on-youtube.git' 'git'
+
+[Docs/IGLU/Perl-IL/telaviv.pm/telaviv.pm]
+checkout = git clone 'git@github.com:xsawyerx/telaviv.pm.git' 'telaviv.pm'
+
+[Docs/IGLU/Telux/site/old-hg]
+checkout = hg clone 'ssh://hg@bitbucket.org/shlomif/tel-aviv-open-source-clubs-site' 'old-hg'
+
+[Docs/IGLU/Telux/site/site-assets--git]
+checkout = git clone 'git@bitbucket.org:shlomif/tel-aviv-open-source-clubs-site-assets-git.git' 'site-assets--git'
+
+[Docs/IGLU/Telux/site/trunk]
+checkout = git clone 'https://github.com/Hamakor/tel-aviv-open-source-clubs-site' 'trunk'
+
+[Docs/IGLU/events-announcements]
+checkout = git clone 'https://github.com/shlomif/events-announcements' 'events-announcements'
+
+[Docs/IGLU/hackers-il/hackers-il-site]
+checkout = git clone 'https://github.com/shlomif/hackers-il-site' 'hackers-il-site'
+
+[Docs/IGLU/hackers-il/old-hg/site]
+checkout = hg clone 'ssh://hg@bitbucket.org/shlomif/hackers-il-site' 'site'
+
+[Docs/IGLU/hamakor/hamakor-prize]
+checkout = git clone 'https://github.com/shlomif/hamakor-prize' 'hamakor-prize'
+
+[Docs/IGLU/hamakor/old-hg/hamakor-prize-2009]
+checkout = hg clone 'ssh://hg@bitbucket.org/shlomif/hamakor-prize' 'hamakor-prize-2009'
+
+[Docs/IGLU/iglu.org.il/iglu.org.il-site-sources]
+checkout = git clone 'https://github.com/Hamakor/iglu.org.il-site-sources' 'iglu.org.il-site-sources'
+
+[Docs/IGLU/images]
+checkout = git clone 'git@github.com:shlomif/old-linux-israel-images.git' 'images'
+
+[Docs/IGLU/linux.org.il/linux.org.il]
+checkout = git clone 'https://github.com/Hamakor/linux.org.il--old-sources.git' 'linux.org.il'
+
+[Docs/IGLU/old-hg/events-announcements]
+checkout = hg clone 'ssh://hg@bitbucket.org/shlomif/events-announcements' 'events-announcements'
+
+[Docs/Images/Captioned-Images/2gitify/holocaust-did-not-happen]
+checkout = git clone 'git@github.com:shlomif/Captioned-Image-Holocaust.git' 'holocaust-did-not-happen'
+
+[Docs/Images/Captioned-Images/Captioned-Image--Little-Red-Riding-Hood-of-Messiahs]
+checkout = git clone 'git@github.com:shlomif/Captioned-Image--Little-Red-Riding-Hood-of-Messiahs.git' 'Captioned-Image--Little-Red-Riding-Hood-of-Messiahs'
+
+[Docs/Images/Captioned-Images/Captioned-Image-Ayn-Rand-to-Christina-Grimmie]
+checkout = git clone 'https://github.com/shlomif/Captioned-Image-Ayn-Rand-to-Christina-Grimmie' 'Captioned-Image-Ayn-Rand-to-Christina-Grimmie'
+
+[Docs/Images/Captioned-Images/Captioned-Image-Carpe-Diem--Mofo]
+checkout = git clone 'https://github.com/shlomif/Captioned-Image-Carpe-Diem--Mofo' 'Captioned-Image-Carpe-Diem--Mofo'
+
+[Docs/Images/Captioned-Images/Captioned-Image-Confidence]
+checkout = git clone 'git@github.com:shlomif/Captioned-Image-Confidence.git' 'Captioned-Image-Confidence'
+
+[Docs/Images/Captioned-Images/Captioned-Image-GNU-slash-Linux]
+checkout = git clone 'git@github.com:shlomif/Captioned-Image-GNU-slash-Linux.git' 'Captioned-Image-GNU-slash-Linux'
+
+[Docs/Images/Captioned-Images/Captioned-Image-Holocaust]
+checkout = git clone 'https://github.com/shlomif/Captioned-Image-Holocaust' 'Captioned-Image-Holocaust'
+
+[Docs/Images/Captioned-Images/Captioned-Image-If-You-Wanna-Be-Sad]
+checkout = git clone 'git@github.com:shlomif/Captioned-Image-If-You-Wanna-Be-Sad.git' 'Captioned-Image-If-You-Wanna-Be-Sad'
+
+[Docs/Images/Captioned-Images/Captioned-Image-Nothing-Sexier]
+checkout = git clone 'git@github.com:shlomif/Captioned-Image-Nothing-Sexier.git' 'Captioned-Image-Nothing-Sexier'
+
+[Docs/Images/Captioned-Images/Captioned-Image-One-does-not-Simply-Say-No-to-an-Alpha-Female]
+checkout = git clone 'https://github.com/shlomif/Captioned-Image-One-does-not-Simply-Say-No-to-an-Alpha-Female' 'Captioned-Image-One-does-not-Simply-Say-No-to-an-Alpha-Female'
+
+[Docs/Images/Captioned-Images/Captioned-Image-One-does-not-Simply-set-up-an-Email-Service]
+checkout = git clone 'https://github.com/shlomif/Captioned-Image-One-does-not-Simply-set-up-an-Email-Service' 'Captioned-Image-One-does-not-Simply-set-up-an-Email-Service'
+
+[Docs/Images/Captioned-Images/Captioned-Image-Princess-Bride-Greek-Philosophers]
+checkout = git clone 'https://github.com/shlomif/Captioned-Image-Princess-Bride-Greek-Philosophers' 'Captioned-Image-Princess-Bride-Greek-Philosophers'
+
+[Docs/Images/Captioned-Images/Captioned-Image-SLP-Pinned-It-On-Me]
+checkout = git clone 'git@github.com:shlomif/Captioned-Image-SLP-Pinned-It-On-Me.git' 'Captioned-Image-SLP-Pinned-It-On-Me'
+
+[Docs/Images/Captioned-Images/Captioned-Image-Truly-You-Have-a-Dizzying-Intellect]
+checkout = git clone 'git@github.com:shlomif/Captioned-Image-Truly-You-Have.git' 'Captioned-Image-Truly-You-Have-a-Dizzying-Intellect'
+
+[Docs/Images/Captioned-Images/Captioned-Image-Yo-NSA-Publish-or-Perish]
+checkout = git clone 'git@github.com:shlomif/Captioned-Image-Yo-NSA-Publish-or-Perish.git' 'Captioned-Image-Yo-NSA-Publish-or-Perish'
+
+[Docs/Images/Captioned-Images/Emma-Watson-doesnt-need-a-wand]
+checkout = git clone 'git@github.com:shlomif/captioned-image--emma-watson-doesnt-need-a-wand.git' 'Emma-Watson-doesnt-need-a-wand'
+
+[Docs/Images/Captioned-Images/Every-mighty-Klingon-Warrior]
+checkout = git clone 'git@github.com:shlomif/Captioned-Image-Every-mighty-Klingon-Warrior.git' 'Every-mighty-Klingon-Warrior'
+
+[Docs/Images/Captioned-Images/Evolution-of-Girls-with-Weapons]
+checkout = git clone 'git@github.com:shlomif/Captioned-Image-Evolution-of-Girls-with-Weapons.git' 'Evolution-of-Girls-with-Weapons'
+
+[Docs/Images/Captioned-Images/One-does-not-Simply-cast-an-American-Actress]
+checkout = git clone 'git@github.com:shlomif/One-does-not-Simply-cast-an-American-Actress.git' 'One-does-not-Simply-cast-an-American-Actress'
+
+[Docs/Images/Captioned-Images/Plato-Aristotle-Socrates--Models]
+checkout = git clone 'git@github.com:shlomif/Captioned-Image-Princess-Bride-Greek-Philosophers.git' 'Plato-Aristotle-Socrates--Models'
+
+[Docs/Images/DoorSign]
+checkout = git clone 'git@github.com:shlomif/Fish-Family-Door-Sign-1-in-GIMP.git' 'DoorSign'
+
+[Docs/Images/Logos/Back-to-my-Homepage/git]
+checkout = git clone 'git@github.com:shlomif/Shlomi-Fish-Back-to-my-Homepage-Logo.git' 'git'
+
+[Docs/Images/Logos/Noa-31-Birthday]
+checkout = git clone 'git@bitbucket.org:shlomif/noa-31st-birthday.git' 'Noa-31-Birthday'
+
+[Docs/Images/Logos/Summerschool-at-the-NSA/SummerNSA-logo]
+checkout = git clone 'git@github.com:shlomif/Summerschool-at-the-NSA-logo.git' 'SummerNSA-logo'
+
+[Docs/Images/Logos/The-One-With-The-Fountainhead-TOWTF-Logo/git]
+checkout = git clone 'git@github.com:shlomif/The-One-with-the-Fountainhead-Logo.git' 'git'
+
+[Docs/Images/Self/Self-Icons/EvilPHish-Icon]
+checkout = git clone 'git@github.com:shlomif/EvilPHish-Icon.git' 'EvilPHish-Icon'
+
+[Docs/Images/Self/business-card/git]
+checkout = git clone 'git@github.com:shlomif/shlomif-business-card.git' 'git'
+
+[Docs/Images/Self/door-sign]
+checkout = git clone 'git@github.com:shlomif/fish-family-door-sign-in-inkscape.git' 'door-sign'
+
+[Docs/Images/Sounds/Shaikeh-Ophir--English-Teacher--Dehebrewize-Version]
+checkout = git clone 'git@github.com:shlomif/Shaike-Ofir--The-English-Teacher--With-English-Intro.git' 'Shaikeh-Ophir--English-Teacher--Dehebrewize-Version'
+
+[Docs/Images/Videos/Screencasts/PySolFC-Qualified-Seed-Improved]
+checkout = git clone 'https://github.com/shlomif/pysolfc-qualified-seed-improved-screencast' 'PySolFC-Qualified-Seed-Improved'
+
+[Docs/Images/Videos/Screencasts/PySolFC-black-hole-solver]
+checkout = git clone 'git@github.com:shlomif/pysolfc-black-hole-solver--screencast.git' 'PySolFC-black-hole-solver'
+
+[Docs/Images/Videos/Screencasts/kpat-with-fc-solve--screencast]
+checkout = git clone 'git@github.com:shlomif/kpat-with-fc-solve--screencast.git' 'kpat-with-fc-solve--screencast'
+
+[Docs/Images/Videos/Screencasts/old-hg/PySolFC-Qualified-Seed-Improved]
+checkout = hg clone 'ssh://hg@bitbucket.org/shlomif/pysolfc-qualified-seed-improved-screencast' 'PySolFC-Qualified-Seed-Improved'
+
+[Docs/Images/Videos/Yonathan-Haqatan-From-Soryy708-Remixed-mp3]
+checkout = git clone 'git@github.com:shlomif/Yonathan-Haqatan-From-Soryy708-Remixed-mp3.git' 'Yonathan-Haqatan-From-Soryy708-Remixed-mp3'
+
+[Docs/Images/Videos/christina-grimmie--feeling-good--singalong-cover]
+checkout = git clone 'git@github.com:shlomif/christina-grimmie--feeling-good--singalong-cover.git' 'christina-grimmie--feeling-good--singalong-cover'
+
+[Docs/Images/Videos/tiffany-alvord-hurtmetomorrow-singalong-cover]
+checkout = git clone 'git@github.com:shlomif/tiffany-alvord-hurtmetomorrow-singalong-cover.git' 'tiffany-alvord-hurtmetomorrow-singalong-cover'
+
+[Docs/Images/d-and-d-cartoon-comparing-lances]
+checkout = git clone 'https://github.com/shlomif/d-and-d-cartoon-comparing-lances' 'd-and-d-cartoon-comparing-lances'
+
+[Docs/Images/old-hg/d-and-d-cartoon--comparing-lances]
+checkout = hg clone 'ssh://hg@bitbucket.org/shlomif/d-and-d-cartoon-comparing-lances' 'd-and-d-cartoon--comparing-lances'
+
+[Docs/Images/repo]
+checkout = git clone 'git@github.com:shlomif/shlomif-Random-Images-Repo.git' 'repo'
+
+[Docs/Language/Vocabulary/English]
+checkout = git clone 'https://github.com/shlomif/shlomif-english-vocabulary' 'English'
+
+[Docs/Letters/old-hg/hg]
+checkout = hg clone 'ssh://hg@bitbucket.org/shlomif/shlomi-fish-letters' 'hg'
+
+[Docs/Music/shlomif-hydrogen-drum-songs]
+checkout = git clone 'git@github.com:shlomif/shlomif-hydrogen-drum-songs.git' 'shlomif-hydrogen-drum-songs'
+
+[Docs/Notes/Passwords]
+checkout = git clone 'git@github.com:shlomif/passwords.git' 'Passwords'
+
+[Docs/Notes/To_Do]
+checkout = git clone 'git@bitbucket.org:shlomif/shlomif-to_do-list.git' 'To_Do'
+
+[Docs/Notes/git]
+checkout = git clone 'git@bitbucket.org:shlomif/shlomif-notes.git' 'git'
+
+[Docs/Notes/old-hg/To_Do]
+checkout = hg clone 'ssh://hg@bitbucket.org/shlomif/shlomif-to_do-lists' 'To_Do'
+
+[Docs/Notes/public]
+checkout = git clone 'git@github.com:shlomif/shlomif-public-notes.git' 'public'
+
+[Docs/Personal/Cognitive/git]
+checkout = git clone 'git@bitbucket.org:shlomif/cognitive-exercises-git.git' 'git'
+
+[Docs/Personal/Dreams-Log]
+checkout = git clone 'git@bitbucket.org:shlomif/shlomif-dreams-log.git' 'Dreams-Log'
+
+[Docs/Personal/email/old-hg/templates]
+checkout = hg clone 'ssh://hg@bitbucket.org/shlomif/shlomif-email-templates' 'templates'
+
+[Docs/Personal/email/signature]
+checkout = git clone 'https://github.com/shlomif/shlomif-email-signature' 'signature'
+
+[Docs/Personal/email/templates]
+checkout = git clone 'https://github.com/shlomif/shlomif-email-templates' 'templates'
+
+[Docs/Personal/mst-facts]
+checkout = git clone 'git@bitbucket.org:shlomif/mst-facts.git' 'mst-facts'
+
+[Docs/Philosophy/MeToo-Me-Too]
+checkout = git clone 'git@github.com:shlomif/MeToo-me-too.git' 'MeToo-Me-Too'
+
+[Docs/Philosophy/Putting-More-Cards-2014/hg]
+checkout = git clone 'https://github.com/shlomif/putting-more-cards-on-the-table-2014' 'hg'
+
+[Docs/Philosophy/Putting-More-Cards-2014/old-hg/hg]
+checkout = hg clone 'ssh://hg@bitbucket.org/shlomif/putting-more-cards-on-the-table-2014' 'hg'
+
+[Docs/Philosophy/dealing-with-Internet-trolls]
+checkout = git clone 'https://github.com/shlomif/taming-trolls-and-flamers' 'dealing-with-Internet-trolls'
+
+[Docs/Philosophy/old-hg/dealing-with-Internet-trolls]
+checkout = hg clone 'ssh://hg@bitbucket.org/shlomif/taming-trolls-and-flamers' 'dealing-with-Internet-trolls'
+
+[Docs/Philosophy/putting-cards-2019-2020]
+checkout = git clone 'git@github.com:shlomif/putting-cards-2019-2020.git' 'putting-cards-2019-2020'
+
+[Docs/Svn]
+checkout = git clone 'git@bitbucket.org:shlomif/shlomif-main-private.git' 'Svn'
+
+[Docs/homepage/OLD-1998-Homepage/git]
+checkout = git clone 'git@github.com:shlomif/shlomi-fishs-1998ish-personal-website.git' 'git'
+
+[Docs/homepage/homepage/branches/old-2009-temp]
+checkout = git clone 'git@github.com:shlomif/shlomi-fish-homepage.git' 'old-2009-temp'
+
+[Docs/homepage/homepage/extern/jquery-expander]
+checkout = git clone 'https://github.com/kswedberg/jquery-expander.git' 'jquery-expander'
+
+[Docs/homepage/homepage/gh-profile-page/shlomif]
+checkout = git clone 'git@github.com:shlomif/shlomif.git' 'shlomif'
+
+[Docs/homepage/homepage/trunk]
+checkout = git clone 'git@github.com:shlomif/shlomi-fish-homepage.git' 'trunk'
+
+[Docs/homepage/homepage/trunk/dest/post-incs/t2/humour/Queen-Padme-Tales/teaser]
+checkout = git clone 'https://github.com/shlomif/Star-Wars-opening-crawl-from-1977-Remake' 'teaser'
+
+[Docs/homepage/homepage/trunk/lib/c-begin]
+checkout = git clone 'https://github.com/shlomif/c-begin.git' 'c-begin'
+
+[Docs/homepage/homepage/trunk--clones/Human-Hacking-Field-Guide]
+checkout = git clone 'https://github.com/shlomif/Human-Hacking-Field-Guide.git' 'Human-Hacking-Field-Guide'
+
+[Docs/homepage/homepage/trunk--clones/The-Earth-Angel]
+checkout = git clone 'https://github.com/shlomif/The-Earth-Angel.git' 'The-Earth-Angel'
+
+[Docs/homepage/homepage/trunk--clones/The-Pope-Died-on-Sunday]
+checkout = git clone 'https://github.com/shlomif/The-Pope-Died-on-Sunday.git' 'The-Pope-Died-on-Sunday'
+
+[Docs/homepage/homepage/trunk/lib/js/MathJax]
+checkout = git clone 'https://github.com/mathjax/MathJax' 'MathJax'
+
+[Docs/homepage/homepage/trunk/lib/js/jquery-expander]
+checkout = git clone 'https://github.com/kswedberg/jquery-expander' 'jquery-expander'
+
+[Docs/homepage/homepage/trunk/lib/presentations/docbook/html-tutorial]
+checkout = git clone 'https://github.com/shlomif/html-tutorial' 'html-tutorial'
+
+[Docs/homepage/homepage/trunk--clones/Captioned-Image--Little-Red-Riding-Hood-of-Messiahs]
+checkout = git clone 'https://github.com/shlomif/Captioned-Image--Little-Red-Riding-Hood-of-Messiahs.git' 'Captioned-Image--Little-Red-Riding-Hood-of-Messiahs'
+
+[Docs/homepage/homepage/trunk--clones/Captioned-Image-Ayn-Rand-to-Christina-Grimmie]
+checkout = git clone 'https://github.com/shlomif/Captioned-Image-Ayn-Rand-to-Christina-Grimmie.git' 'Captioned-Image-Ayn-Rand-to-Christina-Grimmie'
+
+[Docs/homepage/homepage/trunk--clones/Captioned-Image-Badass-Schwarzenegger]
+checkout = git clone 'https://github.com/shlomif/Captioned-Image-Badass-Schwarzenegger.git' 'Captioned-Image-Badass-Schwarzenegger'
+
+[Docs/homepage/homepage/trunk--clones/Captioned-Image-Carpe-Diem--Mofo]
+checkout = git clone 'https://github.com/shlomif/Captioned-Image-Carpe-Diem--Mofo.git' 'Captioned-Image-Carpe-Diem--Mofo'
+
+[Docs/homepage/homepage/trunk--clones/Captioned-Image-Every-mighty-Klingon-Warrior]
+checkout = git clone 'https://github.com/shlomif/Captioned-Image-Every-mighty-Klingon-Warrior.git' 'Captioned-Image-Every-mighty-Klingon-Warrior'
+
+[Docs/homepage/homepage/trunk--clones/Captioned-Image-Evolution-of-Girls-with-Weapons]
+checkout = git clone 'https://github.com/shlomif/Captioned-Image-Evolution-of-Girls-with-Weapons.git' 'Captioned-Image-Evolution-of-Girls-with-Weapons'
+
+[Docs/homepage/homepage/trunk--clones/Captioned-Image-GNU-slash-Linux]
+checkout = git clone 'https://github.com/shlomif/Captioned-Image-GNU-slash-Linux.git' 'Captioned-Image-GNU-slash-Linux'
+
+[Docs/homepage/homepage/trunk--clones/Captioned-Image-Holocaust]
+checkout = git clone 'https://github.com/shlomif/Captioned-Image-Holocaust.git' 'Captioned-Image-Holocaust'
+
+[Docs/homepage/homepage/trunk--clones/Captioned-Image-Interesting-Hypothesis]
+checkout = git clone 'https://github.com/shlomif/Captioned-Image-Interesting-Hypothesis.git' 'Captioned-Image-Interesting-Hypothesis'
+
+[Docs/homepage/homepage/trunk--clones/Captioned-Image-Nothing-Sexier]
+checkout = git clone 'https://github.com/shlomif/Captioned-Image-Nothing-Sexier.git' 'Captioned-Image-Nothing-Sexier'
+
+[Docs/homepage/homepage/trunk--clones/Captioned-Image-One-does-not-Simply-Say-No-to-an-Alpha-Female]
+checkout = git clone 'https://github.com/shlomif/Captioned-Image-One-does-not-Simply-Say-No-to-an-Alpha-Female.git' 'Captioned-Image-One-does-not-Simply-Say-No-to-an-Alpha-Female'
+
+[Docs/homepage/homepage/trunk--clones/Captioned-Image-One-does-not-Simply-cast-an-American-Actress]
+checkout = git clone 'https://github.com/shlomif/Captioned-Image-One-does-not-Simply-cast-an-American-Actress.git' 'Captioned-Image-One-does-not-Simply-cast-an-American-Actress'
+
+[Docs/homepage/homepage/trunk--clones/Captioned-Image-One-does-not-Simply-set-up-an-Email-Service]
+checkout = git clone 'https://github.com/shlomif/Captioned-Image-One-does-not-Simply-set-up-an-Email-Service.git' 'Captioned-Image-One-does-not-Simply-set-up-an-Email-Service'
+
+[Docs/homepage/homepage/trunk--clones/Captioned-Image-Princess-Bride-Greek-Philosophers]
+checkout = git clone 'https://github.com/shlomif/Captioned-Image-Princess-Bride-Greek-Philosophers.git' 'Captioned-Image-Princess-Bride-Greek-Philosophers'
+
+[Docs/homepage/homepage/trunk--clones/Captioned-Image-SLP-Pinned-It-On-Me]
+checkout = git clone 'https://github.com/shlomif/Captioned-Image-SLP-Pinned-It-On-Me.git' 'Captioned-Image-SLP-Pinned-It-On-Me'
+
+[Docs/homepage/homepage/trunk--clones/Captioned-Image-Standup-Philosopher]
+checkout = git clone 'git@github.com:shlomif/Captioned-Image-Standup-Philosopher.git' 'Captioned-Image-Standup-Philosopher'
+
+[Docs/homepage/homepage/trunk--clones/Captioned-Image-Truly-You-Have]
+checkout = git clone 'https://github.com/shlomif/Captioned-Image-Truly-You-Have.git' 'Captioned-Image-Truly-You-Have'
+
+[Docs/homepage/homepage/trunk--clones/Captioned-Image-Yo-NSA-Publish-or-Perish]
+checkout = git clone 'https://github.com/shlomif/Captioned-Image-Yo-NSA-Publish-or-Perish.git' 'Captioned-Image-Yo-NSA-Publish-or-Perish'
+
+[Docs/homepage/homepage/trunk/lib/repos/Shlomi-Fish-Back-to-my-Homepage-Logo]
+checkout = git clone 'https://github.com/shlomif/Shlomi-Fish-Back-to-my-Homepage-Logo.git' 'Shlomi-Fish-Back-to-my-Homepage-Logo'
+
+[Docs/homepage/homepage/trunk/lib/repos/Star-Wars-opening-crawl-from-1977-Remake]
+checkout = git clone 'https://github.com/shlomif/Star-Wars-opening-crawl-from-1977-Remake' 'Star-Wars-opening-crawl-from-1977-Remake'
+
+[Docs/homepage/homepage/trunk--clones/XML-Grammar-Vered]
+checkout = git clone 'https://github.com/shlomif/XML-Grammar-Vered.git' 'XML-Grammar-Vered'
+
+[Docs/homepage/homepage/trunk--clones/captioned-image--badass-fluttershy--terminator-liberation]
+checkout = git clone 'https://github.com/shlomif/captioned-image--badass-fluttershy--terminator-liberation.git' 'captioned-image--badass-fluttershy--terminator-liberation'
+
+[Docs/homepage/homepage/trunk--clones/captioned-image--emma-watson-doesnt-need-a-wand]
+checkout = git clone 'https://github.com/shlomif/captioned-image--emma-watson-doesnt-need-a-wand.git' 'captioned-image--emma-watson-doesnt-need-a-wand'
+
+[Docs/homepage/homepage/trunk--clones/captioned-images--repo]
+checkout = git clone 'git@github.com:shlomif/captioned-images--repo.git' 'captioned-images--repo'
+
+[Docs/homepage/homepage/trunk--clones/how-to-share-code-online]
+checkout = git clone 'https://github.com/shlomif/how-to-share-code-online.git' 'how-to-share-code-online'
+
+[Docs/homepage/homepage/trunk--clones/my-real-person-fan-fiction]
+checkout = git clone 'https://github.com/shlomif/my-real-person-fan-fiction.git' 'my-real-person-fan-fiction'
+
+[Docs/homepage/homepage/trunk--clones/putting-cards-2019-2020]
+checkout = git clone 'https://github.com/shlomif/putting-cards-2019-2020.git' 'putting-cards-2019-2020'
+
+[Docs/homepage/homepage/trunk--clones/shlomif-business-card]
+checkout = git clone 'https://github.com/shlomif/shlomif-business-card.git' 'shlomif-business-card'
+
+[Docs/homepage/homepage/trunk/lib/repos/shlomif-humour-fortunes-archives-assets]
+checkout = git clone 'https://github.com/shlomif/shlomif-humour-fortunes-archives-assets' 'shlomif-humour-fortunes-archives-assets'
+
+[Docs/homepage/homepage/trunk--clones/shlomif-tech-diary]
+checkout = git clone 'https://github.com/shlomif/shlomif-tech-diary.git' 'shlomif-tech-diary'
+
+[Docs/homepage/homepage/trunk--clones/validate-your-html]
+checkout = git clone 'https://github.com/shlomif/validate-your-html.git' 'validate-your-html'
+
+[Docs/homepage/homepage/trunk--clones/why-openly-bipolar-people-should-not-be-medicated]
+checkout = git clone 'https://github.com/shlomif/why-openly-bipolar-people-should-not-be-medicated.git' 'why-openly-bipolar-people-should-not-be-medicated'
+
+[Docs/homepage/homepage/trunk--clones/Blue-Rabbit-Log]
+checkout = git clone 'https://github.com/shlomif/Blue-Rabbit-Log.git' 'Blue-Rabbit-Log'
+
+[Docs/homepage/homepage/trunk--clones/Buffy-a-Few-Good-Slayers]
+checkout = git clone 'https://github.com/shlomif/Buffy-a-Few-Good-Slayers.git' 'Buffy-a-Few-Good-Slayers'
+
+[Docs/homepage/homepage/trunk--clones/Cookie-Monster--The-Slayer]
+checkout = git clone 'git@github.com:shlomif/Cookie-Monster--The-Slayer.git' 'Cookie-Monster--The-Slayer'
+
+[Docs/homepage/homepage/trunk--clones/Humanity-the-Movie]
+checkout = git clone 'https://github.com/shlomif/Humanity-the-Movie.git' 'Humanity-the-Movie'
+
+[Docs/homepage/homepage/trunk--clones/Queen-Padme-Tales]
+checkout = git clone 'git@github.com:shlomif/Queen-Padme-Tales.git' 'Queen-Padme-Tales'
+
+[Docs/homepage/homepage/trunk--clones/Selina-Mandrake]
+checkout = git clone 'https://github.com/shlomif/Selina-Mandrake.git' 'Selina-Mandrake'
+
+[Docs/homepage/homepage/trunk--clones/So-Who-the-Hell-Is-Qoheleth]
+checkout = git clone 'https://github.com/shlomif/So-Who-the-Hell-Is-Qoheleth.git' 'So-Who-the-Hell-Is-Qoheleth'
+
+[Docs/homepage/homepage/trunk--clones/Star-Trek--We-the-Living-Dead]
+checkout = git clone 'https://github.com/shlomif/Star-Trek--We-the-Living-Dead.git' 'Star-Trek--We-the-Living-Dead'
+
+[Docs/homepage/homepage/trunk--clones/Summerschool-at-the-NSA]
+checkout = git clone 'https://github.com/shlomif/Summerschool-at-the-NSA.git' 'Summerschool-at-the-NSA'
+
+[Docs/homepage/homepage/trunk--clones/TOW-Fountainhead]
+checkout = git clone 'https://github.com/shlomif/TOW-Fountainhead.git' 'TOW-Fountainhead'
+
+[Docs/homepage/homepage/trunk--clones/Terminator-Liberation]
+checkout = git clone 'git@github.com:shlomif/Terminator-Liberation.git' 'Terminator-Liberation'
+
+[Docs/homepage/homepage/trunk--clones/The-Muppets-Show--The-New-Incarnation]
+checkout = git clone 'https://github.com/shlomif/The-Muppets-Show--The-New-Incarnation.git' 'The-Muppets-Show--The-New-Incarnation'
+
+[Docs/homepage/homepage/trunk--clones/screenplays-common]
+checkout = git clone 'https://github.com/shlomif/screenplays-common.git' 'screenplays-common'
+
+[Docs/homepage/homepage/trunk--clones/Captioned-Image-One-does-not-Simply-Read-LotR]
+checkout = git clone 'git@github.com:shlomif/Captioned-Image-One-does-not-Simply-Read-LotR.git' 'Captioned-Image-One-does-not-Simply-Read-LotR'
+
+[Docs/homepage/homepage/trunk--clones/missile-vs-melee-take-three]
+checkout = git clone 'https://github.com/shlomif/missile-vs-melee-take-three' 'missile-vs-melee-take-three'
+
+[Docs/homepage/homepage/trunk--clones/my-real-person-fan-fiction/Captioned-Image-Ayn-Rand-to-Christina-Grimmie]
+checkout = git clone 'https://github.com/shlomif/Captioned-Image-Ayn-Rand-to-Christina-Grimmie' 'Captioned-Image-Ayn-Rand-to-Christina-Grimmie'
+
+[Docs/homepage/homepage/trunk--clones/my-real-person-fan-fiction/captioned-image--emma-watson-doesnt-need-a-wand]
+checkout = git clone 'https://github.com/shlomif/captioned-image--emma-watson-doesnt-need-a-wand' 'captioned-image--emma-watson-doesnt-need-a-wand'
+
+[Docs/homepage/homepage/trunk--clones/putting-cards-2021]
+checkout = git clone 'git@github.com:shlomif/putting-cards-2021.git' 'putting-cards-2021'
+
+[Docs/homepage/homepage/trunk--clones/rebookmaker]
+checkout = git clone 'https://github.com/shlomif/rebookmaker' 'rebookmaker'
+
+[Docs/homepage/homepage/trunk--clones/shlomif-tech-diary/docbookrx]
+checkout = git clone 'https://github.com/shlomif/docbookrx' 'docbookrx'
+
+[Docs/homepage/to-upload/hp-root/humour/Queen-Padme-Tales/teaser]
+checkout = git clone 'https://github.com/shlomif/Star-Wars-opening-crawl-from-1977-Remake' 'teaser'
+
+[Docs/homepage/wml-affiliations]
+checkout = git clone 'https://github.com/shlomif/wml-affiliations' 'wml-affiliations'
+
+[Docs/maintenance/Case-for-file-swapping-rev1/Case-for]
+checkout = git clone 'https://github.com/shlomif/case-for-file-swapping-rev1.git' 'Case-for'
+
+[Docs/maintenance/Case-for-file-swapping-rev2/Case-for]
+checkout = git clone 'https://github.com/shlomif/case-for-file-swapping-rev2.git' 'Case-for'
+
+[Docs/math/Group-Theory/git]
+checkout = git clone 'git@bitbucket.org:shlomif/shlomif-group-theory-studies-git' 'git'
+
+[Docs/math/MathVentures/3d-out-of-4d]
+checkout = git clone 'https://github.com/shlomif/mathventures-3d-out-of-4d' '3d-out-of-4d'
+
+[Docs/math/MathVentures/bugs-in-square]
+checkout = git clone 'https://github.com/shlomif/mathventures-bugs-in-square' 'bugs-in-square'
+
+[Docs/math/Riddles]
+checkout = git clone 'git@github.com:shlomif/maths--riddles.git' 'Riddles'
+
+[Docs/math/book-of-proof--exercises-solutions]
+checkout = git clone 'git@github.com:shlomif/book-of-proof--exercises-solutions.git' 'book-of-proof--exercises-solutions'
+
+[Docs/math/modulo_circles]
+checkout = git clone 'git@github.com:shlomif/math--modulo-circles.git' 'modulo_circles'
+
+[Docs/old-hg/Svn]
+checkout = hg clone 'git+ssh://git@bitbucket.org/shlomif/shlomif-main-private' 'Svn'
+
+[Docs/programming/App-Freelancers-Board-Yonathan]
+checkout = git clone 'git@github.com:shlomif/App-Freelancers-Board-Yonathan.git' 'App-Freelancers-Board-Yonathan'
+
+[Docs/programming/Articles/SQL-Injections/SQL-Injections--danger-and-prevention]
+checkout = git clone 'git@github.com:shlomif/SQL-Injections--danger-and-prevention.git' 'SQL-Injections--danger-and-prevention'
+
+[Docs/programming/C/c-begin]
+checkout = git clone 'git@github.com:shlomif/c-begin.git' 'c-begin'
+
+[Docs/programming/CLAN]
+checkout = git clone 'git@github.com:shlomif/CLAN.git' 'CLAN'
+
+[Docs/programming/FCS/Adrian-Ettlinger-emails-collection/git]
+checkout = git clone 'https://github.com/shlomif/Adrian-Ettlinger-Emails-Collection' 'git'
+
+[Docs/programming/Perl/Articles/HTML-Widgets-NavMenu/trunk]
+checkout = git clone 'https://github.com/shlomif/html-widgets-navmenu-article' 'trunk'
+
+[Docs/programming/Perl/Articles/OOP-Modules/trunk]
+checkout = git clone 'https://github.com/shlomif/cpan-oop-modules-overview' 'trunk'
+
+[Docs/programming/Perl/books/Book-Reviews]
+checkout = git clone 'git@github.com:shlomif/shlomi-fish-book-reviews.git' 'Book-Reviews'
+
+[Docs/programming/Perl/books/mastering-perl-removal]
+checkout = git clone 'git@github.com:shlomif/mastering-perl.git' 'mastering-perl-removal'
+
+[Docs/programming/Perl/grants]
+checkout = git clone 'git@bitbucket.org:shlomif/shlomi-fish-grants' 'grants'
+
+[Docs/programming/Perl/web-sites/ovid-cgi-course/git]
+checkout = git clone 'https://github.com/shlomif/ovid-cgi-course' 'git'
+
+[Docs/programming/Perl/web-sites/perl-begin/trunk]
+checkout = git clone 'git@github.com:shlomif/perl-begin.git' 'trunk'
+
+[Docs/programming/Perl/web-sites/www.begin-site.org/git]
+checkout = git clone 'https://github.com/shlomif/www.begin-site.org' 'git'
+
+[Docs/programming/SCM/better-scm/site/trunk]
+checkout = git clone 'https://github.com/shlomif/better-scm.git' 'trunk'
+
+[Docs/programming/Spark/hg]
+checkout = git clone 'https://github.com/shlomif/spark' 'hg'
+
+[Docs/programming/Vim/faq-notes]
+checkout = git clone 'https://github.com/shlomif/vim-faq-notes' 'faq-notes'
+
+[Docs/programming/Vim/vim-begin/git/vim-begin]
+checkout = git clone 'git@github.com:shlomif/vim-begin.git' 'vim-begin'
+
+[Docs/programming/about-supporting-older-perl5-releases]
+checkout = git clone 'git@github.com:shlomif/supporting-older-perl5-releases.git' 'about-supporting-older-perl5-releases'
+
+[Docs/programming/cmd-line-spreadsheets-toolkit/cmd-line-spreadsheets-toolkit]
+checkout = git clone 'git@github.com:shlomif/cmd-line-spreadsheets-toolkit.git' 'cmd-line-spreadsheets-toolkit'
+
+[Docs/programming/fedora-blog-replies]
+checkout = git clone 'git@github.com:shlomif/fedora-blog-replies.git' 'fedora-blog-replies'
+
+[Docs/programming/irc/freenode-##programming/faq/FreenodesprogrammingWiki]
+checkout = git clone 'git@github.com:shlomif/Freenode-programming-channel-FAQ.git' 'FreenodesprogrammingWiki'
+
+[Docs/programming/irc/freenode-##programming/faq/FreenodesprogrammingWiki/github-markdown-toc]
+checkout = git clone 'https://github.com/ekalinin/github-markdown-toc' 'github-markdown-toc'
+
+[Docs/programming/plea-to-not-use-github-tags-as-releases]
+checkout = git clone 'git@github.com:shlomif/plea-to-not-use-github-tags-as-releases.git' 'plea-to-not-use-github-tags-as-releases'
+
+[Docs/programming/random-tweakers/trunk]
+checkout = git clone 'https://github.com/shlomif/random-tweakers-site' 'trunk'
+
+[Docs/programming/static-site-generators--wikipedia]
+checkout = git clone 'https://github.com/shlomif/static-site-generators--wikipedia' 'static-site-generators--wikipedia'
+
+[Docs/programming/testing-static-sites]
+checkout = git clone 'git@github.com:shlomif/testing-static-sites.git' 'testing-static-sites'
+
+[Docs/programming/what-i-learned-from-porting-to-freebsd]
+checkout = git clone 'git@github.com:shlomif/what-i-learned-from-porting-to-freebsd.git' 'what-i-learned-from-porting-to-freebsd'
+
+[Docs/programming/what-you-should-know-about-automated-testing]
+checkout = git clone 'https://github.com/shlomif/what-you-should-know-about-automated-testing.git' 'what-you-should-know-about-automated-testing'
+
+[Docs/programming/why-my-projects-cannot-support-netbsd-yet]
+checkout = git clone 'git@github.com:shlomif/why-my-projects-cannot-support-netbsd-yet.git' 'why-my-projects-cannot-support-netbsd-yet'
+
+[Docs/programming/why-the-BSDs-should-not-blame-USL-vs-BSDi-for-linux-dominance]
+checkout = git clone 'git@github.com:shlomif/why-the-BSDs-should-not-blame-USL-vs-BSDi-for-linux-dominance.git' 'why-the-BSDs-should-not-blame-USL-vs-BSDi-for-linux-dominance'
+
+[Docs/programming/writing-the-perfect-question]
+checkout = git clone 'git@github.com:shlomif/writing-the-perfect-question.git' 'writing-the-perfect-question'
+
+[Download/Docs/Books/Fiction/reading-discworld-pyramids-repo]
+checkout = git clone 'git@bitbucket.org:shlomif/reading-discworld-pyramids-repo' 'reading-discworld-pyramids-repo'
+
+[Download/Docs/Books/PerlOneLiners--review-notes]
+checkout = git clone 'ssh://git@bitbucket.org/shlomif/perloneliners-book-review-notes.git' 'PerlOneLiners--review-notes'
+
+[Download/Docs/Books/Springer-Free-Books-2020/springer_free_books]
+checkout = git clone 'https://github.com/alexgand/springer_free_books' 'springer_free_books'
+
+[Download/Docs/Books/Teaching-Open-Source/Practical-OSS-Exploration-textbook]
+checkout = git clone 'https://github.com/shlomif/Practical-OSS-Exploration-textbook' 'Practical-OSS-Exploration-textbook'
+
+[Download/Docs/Books/cmake/cmake-recipes]
+checkout = git clone 'https://github.com/shlomif/cmake-recipes.git' 'cmake-recipes'
+
+[Download/Docs/Books/cmake/shlomif-temp]
+checkout = git clone 'git@bitbucket.org:shlomif/cmake-book-private-review-packt.git' 'shlomif-temp'
+
+[Download/Docs/JKirchartz-fortunes]
+checkout = git clone 'git@github.com:shlomif/fortunes.git' 'JKirchartz-fortunes'
+
+[Download/Docs/mastering_perl/git/mastering-perl]
+checkout = git clone 'git@bitbucket.org:shlomif/mastering-perl.git' 'mastering-perl'
+
+[Download/unpack/.oh-my-zsh]
+checkout = git clone 'git@github.com:shlomif/oh-my-zsh.git' '.oh-my-zsh'
+
+[Download/unpack/bash-completion/bash-completion]
+checkout = git clone 'git@github.com:shlomif/bash-completion.git' 'bash-completion'
+
+[Download/unpack/bugs/reproduction-repositories/ccache-clang-stray-Warray-bounds-warning-bug]
+checkout = git clone 'git@github.com:shlomif/ccache-clang-stray-Warray-bounds-warning-bug.git' 'ccache-clang-stray-Warray-bounds-warning-bug'
+
+[Download/unpack/bugs/reproduction-repositories/gvim-crash-on-kde-plasma5]
+checkout = git clone 'git@github.com:shlomif/bug--gvim-crash-on-kde-plasma5--reproduction.git' 'gvim-crash-on-kde-plasma5'
+
+[Download/unpack/bugs/reproduction-repositories/vlc-memleak-reproduction-repo]
+checkout = git clone 'git@github.com:shlomif/vlc-memleak-bug-1-reproduction.git' 'vlc-memleak-reproduction-repo'
+
+[Download/unpack/check-all-the-things]
+checkout = git clone 'git://anonscm.debian.org/collab-maint/check-all-the-things.git' 'check-all-the-things'
+
+[Download/unpack/codespell]
+checkout = git clone 'https://github.com/lucasdemarchi/codespell.git' 'codespell'
+
+[Download/unpack/conf/hg-prompt/hg-prompt]
+checkout = hg clone 'ssh://hg@bitbucket.org/shlomif/hg-prompt' 'hg-prompt'
+
+[Download/unpack/debian-packages/fortune-mod]
+checkout = git clone 'git@salsa.debian.org:shlomif-guest/fortune-mod.git' 'fortune-mod'
+
+[Download/unpack/fedora/packages/black-hole-solver]
+checkout = git clone 'ssh://shlomif@pkgs.fedoraproject.org/rpms/black-hole-solver' 'black-hole-solver'
+
+[Download/unpack/fedora/packages/fortune-mod]
+checkout = git clone 'ssh://shlomif@pkgs.fedoraproject.org/rpms/fortune-mod' 'fortune-mod'
+
+[Download/unpack/fedora/packages/joe]
+checkout = git clone 'ssh://shlomif@pkgs.fedoraproject.org/rpms/joe' 'joe'
+
+[Download/unpack/fedora/packages/lynx]
+checkout = git clone 'ssh://shlomif@pkgs.fedoraproject.org/forks/shlomif/rpms/lynx.git' 'lynx'
+
+[Download/unpack/fedora/packages/rinutils]
+checkout = git clone 'ssh://shlomif@pkgs.fedoraproject.org/rpms/rinutils' 'rinutils'
+
+[Download/unpack/fedora/packages/unqlite]
+checkout = git clone 'https://copr-dist-git.fedorainfracloud.org/cgit/shlomif/unqlite/unqlite.git' 'unqlite'
+
+[Download/unpack/file/the_silver_searcher]
+checkout = git clone 'git@github.com:shlomif/the_silver_searcher.git' 'the_silver_searcher'
+
+[Download/unpack/file/vcs/git-spindle]
+checkout = git clone 'git@github.com:shlomif/git-spindle.git' 'git-spindle'
+
+[Download/unpack/file/vcs/hg-git]
+checkout = hg clone 'ssh://hg@bitbucket.org/shlomif/hg-git' 'hg-git'
+
+[Download/unpack/file/vim/moonjit]
+checkout = git clone 'https://github.com/moonjit/moonjit/' 'moonjit'
+
+[Download/unpack/file/vim/neovim]
+checkout = git clone 'git@github.com:shlomif/neovim.git' 'neovim'
+
+[Download/unpack/file/vim/neovim-qt]
+checkout = git clone 'https://github.com/shlomif/neovim-qt.git' 'neovim-qt'
+
+[Download/unpack/file/vim/vim-git]
+checkout = git clone 'git@github.com:shlomif/vim.git' 'vim-git'
+
+[Download/unpack/file/vim/vim_faq]
+checkout = git clone 'git@github.com:shlomif/vim_faq.git' 'vim_faq'
+
+[Download/unpack/firefox/ff]
+checkout = git clone 'https://github.com/shlomif/ff' 'ff'
+
+[Download/unpack/games/cube-composer]
+checkout = git clone 'git@github.com:shlomif/cube-composer.git' 'cube-composer'
+
+[Download/unpack/games/freecell/MicrosoftFreeCell32000-minimal-freecells]
+checkout = git clone 'git@github.com:shlomif/MicrosoftFreeCell32000-minimal-freecells.git' 'MicrosoftFreeCell32000-minimal-freecells'
+
+[Download/unpack/games/freecell/PySolFC-deals]
+checkout = git clone 'git@github.com:shlomif/PySolFC-deals.git' 'PySolFC-deals'
+
+[Download/unpack/games/freecell/Solvitaire]
+checkout = git clone 'git@github.com:shlomif/Solvitaire.git' 'Solvitaire'
+
+[Download/unpack/games/freecell/Solvitaire/b/googletest-src]
+checkout = git clone 'https://github.com/google/googletest.git' 'googletest-src'
+
+[Download/unpack/games/freecell/freecell-3fc-determine-solvability]
+checkout = git clone 'git@github.com:shlomif/freecell-3fc-determine-solvability.git' 'freecell-3fc-determine-solvability'
+
+[Download/unpack/games/freecell/freecell-pro-0fc-deals]
+checkout = git clone 'https://github.com/shlomif/freecell-pro-0fc-deals' 'freecell-pro-0fc-deals'
+
+[Download/unpack/games/freecell/freecell-pro-3fc-deals--split]
+checkout = git clone 'https://github.com/shlomif/freecell-pro-3fc-deals--split.git' 'freecell-pro-3fc-deals--split'
+
+[Download/unpack/games/freecell/freecell-pro-3fc-resolve-intractable-deals]
+checkout = git clone 'https://github.com/theodorepringle/freecell-pro-3fc-resolve-intractable-deals.git' 'freecell-pro-3fc-resolve-intractable-deals'
+
+[Download/unpack/games/freecell/hs/Freecell]
+checkout = git clone 'https://github.com/shlomif/Freecell' 'Freecell'
+
+[Download/unpack/games/ksokoban/ksokoban]
+checkout = git clone 'git@git.kde.org:ksokoban' 'ksokoban'
+
+[Download/unpack/games/ksokoban/ksokoban-code]
+checkout = hg clone 'http://hg.code.sf.net/p/ksokoban/code' 'ksokoban-code'
+
+[Download/unpack/games/list-of-games-on-github/games]
+checkout = git clone 'git@github.com:shlomif/games.git' 'games'
+
+[Download/unpack/games/mini-golf-3d]
+checkout = git clone 'git@github.com:shlomif/mini-golf-3d.git' 'mini-golf-3d'
+
+[Download/unpack/games/pysolfc/Extra-Mahjongg-Cardsets]
+checkout = git clone 'https://github.com/shlomif/PySol-Extra-Mahjongg-Cardsets.git' 'Extra-Mahjongg-Cardsets'
+
+[Download/unpack/games/pysolfc/PySolFC-Cardsets]
+checkout = git clone 'git@github.com:shlomif/PySolFC-Cardsets.git' 'PySolFC-Cardsets'
+
+[Download/unpack/games/pysolfc/git/pysol-music]
+checkout = git clone 'git@github.com:shlomif/pysol-music.git' 'pysol-music'
+
+[Download/unpack/games/pysolfc/git/pysol-sound-server]
+checkout = git clone 'https://github.com/shlomif/pysol-sound-server.git' 'pysol-sound-server'
+
+[Download/unpack/games/pysolfc/pysolfc-announcements]
+checkout = git clone 'https://github.com/shlomif/pysolfc-announcements' 'pysolfc-announcements'
+
+[Download/unpack/games/sgtataham-puzzles/puzzles]
+checkout = git clone 'https://git.tartarus.org/simon/puzzles.git' 'puzzles'
+
+[Download/unpack/games/sokoban-solvers/willy]
+checkout = git clone 'git@github.com:shlomif/willy.git' 'willy'
+
+[Download/unpack/graphics/eog]
+checkout = git clone 'https://gitlab.gnome.org/GNOME/eog.git' 'eog'
+
+[Download/unpack/graphics/gimp/babl/git/babl]
+checkout = git clone 'https://gitlab.gnome.org/GNOME/babl.git/' 'babl'
+
+[Download/unpack/graphics/gimp/gegl/git/gegl]
+checkout = git clone 'https://gitlab.gnome.org/GNOME/gegl.git/' 'gegl'
+
+[Download/unpack/graphics/gimp/gexiv2/git/gexiv2]
+checkout = git clone 'https://gitlab.gnome.org/GNOME/gexiv2.git/' 'gexiv2'
+
+[Download/unpack/graphics/gimp/gimp-web]
+checkout = git clone 'git@gitlab.gnome.org:shlomif/gimp-web.git' 'gimp-web'
+
+[Download/unpack/graphics/gimp/gimp-web-devel]
+checkout = git clone 'git@gitlab.gnome.org:shlomif/gimp-web-devel.git' 'gimp-web-devel'
+
+[Download/unpack/graphics/gimp/git/gimp]
+checkout = git clone 'https://gitlab.gnome.org/GNOME/gimp.git/' 'gimp'
+
+[Download/unpack/graphics/gimp/libmypaint/git/libmypaint]
+checkout = git clone 'https://github.com/mypaint/libmypaint.git' 'libmypaint'
+
+[Download/unpack/graphics/gimp/libmypaint/git/mypaint-brushes]
+checkout = git clone 'https://github.com/Jehan/mypaint-brushes.git' 'mypaint-brushes'
+
+[Download/unpack/graphics/inkscape/Bezier-Envelope-for-Inkscape]
+checkout = git clone 'https://github.com/shlomif/Bezier-Envelope-for-Inkscape' 'Bezier-Envelope-for-Inkscape'
+
+[Download/unpack/graphics/inkscape/Shlomi-Fish-Back-to-my-Homepage-Logo]
+checkout = git clone 'git@github.com:shlomif/Shlomi-Fish-Back-to-my-Homepage-Logo.git' 'Shlomi-Fish-Back-to-my-Homepage-Logo'
+
+[Download/unpack/graphics/inkscape/extensions]
+checkout = git clone 'git@gitlab.com:shlomif/extensions.git' 'extensions'
+
+[Download/unpack/graphics/inkscape/inkscape]
+checkout = git clone 'git@gitlab.com:shlomif/inkscape.git' 'inkscape'
+
+[Download/unpack/graphics/jwm]
+checkout = git clone 'git@github.com:shlomif/jwm.git' 'jwm'
+
+[Download/unpack/graphics/kde-set-desktop-names]
+checkout = git clone 'git@github.com:shlomif/kde-set-desktop-names.git' 'kde-set-desktop-names'
+
+[Download/unpack/graphics/lepton]
+checkout = git clone 'https://github.com/dropbox/lepton' 'lepton'
+
+[Download/unpack/graphics/perceptualdiff]
+checkout = git clone 'https://github.com/myint/perceptualdiff.git' 'perceptualdiff'
+
+[Download/unpack/graphics/rsvg/librsvg]
+checkout = git clone 'https://gitlab.gnome.org/GNOME/librsvg' 'librsvg'
+
+[Download/unpack/gtk]
+checkout = git clone 'https://gitlab.gnome.org/GNOME/gtk' 'gtk'
+
+[Download/unpack/kde/dolphin/dolphin]
+checkout = git clone 'git://anongit.kde.org/dolphin.git' 'dolphin'
+
+[Download/unpack/kde/dolphin/dolphin/arcanist]
+checkout = git clone 'https://github.com/phacility/arcanist.git' 'arcanist'
+
+[Download/unpack/kde/dolphin/dolphin/libphutil]
+checkout = git clone 'https://github.com/phacility/libphutil.git' 'libphutil'
+
+[Download/unpack/kde/extra-cmake-modules]
+checkout = git clone 'git://anongit.kde.org/extra-cmake-modules' 'extra-cmake-modules'
+
+[Download/unpack/kde/gwenview/gwenview]
+checkout = git clone 'https://anongit.kde.org/gwenview' 'gwenview'
+
+[Download/unpack/kde/kde-dev-scripts]
+checkout = git clone 'git://anongit.kde.org/kde-dev-scripts' 'kde-dev-scripts'
+
+[Download/unpack/kde/kdegames/git/kpat]
+checkout = git clone 'kde:games/kpat' 'kpat'
+
+[Download/unpack/kde/kdegames/git/kpat/arcanist]
+checkout = git clone 'https://github.com/phacility/arcanist.git' 'arcanist'
+
+[Download/unpack/kde/kdegames/git/kpat/libphutil]
+checkout = git clone 'https://github.com/phacility/libphutil.git' 'libphutil'
+
+[Download/unpack/kde/kdesrc-build]
+checkout = git clone 'git://anongit.kde.org/kdesrc-build' 'kdesrc-build'
+
+[Download/unpack/kde/kio/kio]
+checkout = git clone 'git://anongit.kde.org/kio.git' 'kio'
+
+[Download/unpack/kde/konsole]
+checkout = git clone 'git://anongit.kde.org/konsole' 'konsole'
+
+[Download/unpack/kde/krita]
+checkout = git clone 'https://invent.kde.org/kde/krita.git' 'krita'
+
+[Download/unpack/kde/kwin-tiling]
+checkout = git clone 'https://github.com/faho/kwin-tiling.git' 'kwin-tiling'
+
+[Download/unpack/kde/systemsettings]
+checkout = git clone 'kde:systemsettings' 'systemsettings'
+
+[Download/unpack/libprojectm]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/libprojectm/current' 'libprojectm'
+
+[Download/unpack/log4j-detector]
+checkout = git clone 'https://github.com/mergebase/log4j-detector' 'log4j-detector'
+
+[Download/unpack/mageia/SPECS-only-for-deps/PySolFC/SPECS]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/PySolFC/current/SPECS' 'SPECS'
+
+[Download/unpack/mageia/SPECS-only-for-deps/claws-mail/SPECS]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/claws-mail/current/SPECS' 'SPECS'
+
+[Download/unpack/mageia/SPECS-only-for-deps/cmake/SPECS]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/cmake/current/SPECS' 'SPECS'
+
+[Download/unpack/mageia/SPECS-only-for-deps/dolphin/SPECS]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/dolphin/current/SPECS' 'SPECS'
+
+[Download/unpack/mageia/SPECS-only-for-deps/dragon/SPECS]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/dragon/current/SPECS' 'SPECS'
+
+[Download/unpack/mageia/SPECS-only-for-deps/ffmpeg/SPECS]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/ffmpeg/current/SPECS' 'SPECS'
+
+[Download/unpack/mageia/SPECS-only-for-deps/firefox/SPECS]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/firefox/current/SPECS' 'SPECS'
+
+[Download/unpack/mageia/SPECS-only-for-deps/freecell-solver/SPECS]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/freecell-solver/current/SPECS' 'SPECS'
+
+[Download/unpack/mageia/SPECS-only-for-deps/gcc/SPECS]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/gcc/current/SPECS' 'SPECS'
+
+[Download/unpack/mageia/SPECS-only-for-deps/gimp/SPECS]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/gimp/current/SPECS' 'SPECS'
+
+[Download/unpack/mageia/SPECS-only-for-deps/gnumeric/SPECS]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/gnumeric/current/SPECS' 'SPECS'
+
+[Download/unpack/mageia/SPECS-only-for-deps/godot/SPECS]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/godot/current/SPECS' 'SPECS'
+
+[Download/unpack/mageia/SPECS-only-for-deps/gwenview/SPECS]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/gwenview/current/SPECS' 'SPECS'
+
+[Download/unpack/mageia/SPECS-only-for-deps/hexchat/SPECS]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/hexchat/current/SPECS' 'SPECS'
+
+[Download/unpack/mageia/SPECS-only-for-deps/inkscape/SPECS]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/inkscape/current/SPECS' 'SPECS'
+
+[Download/unpack/mageia/SPECS-only-for-deps/kernel/SPECS]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/kernel/current/SPECS' 'SPECS'
+
+[Download/unpack/mageia/SPECS-only-for-deps/kpat/SPECS]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/kpat/current/SPECS' 'SPECS'
+
+[Download/unpack/mageia/SPECS-only-for-deps/krita/SPECS]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/krita/current/SPECS' 'SPECS'
+
+[Download/unpack/mageia/SPECS-only-for-deps/librsvg/SPECS]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/librsvg/current/SPECS' 'SPECS'
+
+[Download/unpack/mageia/SPECS-only-for-deps/llvm/SPECS]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/llvm/current/SPECS' 'SPECS'
+
+[Download/unpack/mageia/SPECS-only-for-deps/mpv/SPECS]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/mpv/current/SPECS' 'SPECS'
+
+[Download/unpack/mageia/SPECS-only-for-deps/neovim/SPECS]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/neovim/current/SPECS' 'SPECS'
+
+[Download/unpack/mageia/SPECS-only-for-deps/nmap/SPECS]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/nmap/current/SPECS' 'SPECS'
+
+[Download/unpack/mageia/SPECS-only-for-deps/nodejs/SPECS]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/nodejs/current/SPECS' 'SPECS'
+
+[Download/unpack/mageia/SPECS-only-for-deps/octave/SPECS]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/octave/current/SPECS' 'SPECS'
+
+[Download/unpack/mageia/SPECS-only-for-deps/perl-Imager/SPECS]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/perl-Imager/current/SPECS' 'SPECS'
+
+[Download/unpack/mageia/SPECS-only-for-deps/pidgin/SPECS]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/pidgin/current/SPECS' 'SPECS'
+
+[Download/unpack/mageia/SPECS-only-for-deps/purple-facebook/SPECS]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/purple-facebook/current/SPECS' 'SPECS'
+
+[Download/unpack/mageia/SPECS-only-for-deps/purple-hangouts/SPECS]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/purple-hangouts/current/SPECS' 'SPECS'
+
+[Download/unpack/mageia/SPECS-only-for-deps/python3/SPECS]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/python3/current/SPECS' 'SPECS'
+
+[Download/unpack/mageia/SPECS-only-for-deps/sqlite3/SPECS]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/sqlite3/current/SPECS' 'SPECS'
+
+[Download/unpack/mageia/SPECS-only-for-deps/vim/SPECS]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/vim/current/SPECS' 'SPECS'
+
+[Download/unpack/mageia/SPECS-only-for-deps/vlc/SPECS]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/vlc/current/SPECS' 'SPECS'
+
+[Download/unpack/mageia/SPECS-only-for-deps/wine/SPECS]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/wine/current/SPECS' 'SPECS'
+
+[Download/unpack/mageia/SPECS-only-for-deps/wml/SPECS]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/wml/current/SPECS' 'SPECS'
+
+[Download/unpack/mageia/mgarepos/7/libuv]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/updates/7/libuv/current' 'libuv'
+
+[Download/unpack/mageia/mgarepos/camd]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/camd/current' 'camd'
+
+[Download/unpack/mageia/mgarepos/chkconfig]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/chkconfig/current' 'chkconfig'
+
+[Download/unpack/mageia/mgarepos/csv2chart]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/csv2chart/current' 'csv2chart'
+
+[Download/unpack/mageia/mgarepos/fortune-shlomif]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/fortune-shlomif/current' 'fortune-shlomif'
+
+[Download/unpack/mageia/mgarepos/gdk-pixbuf2.0]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/gdk-pixbuf2.0/current' 'gdk-pixbuf2.0'
+
+[Download/unpack/mageia/mgarepos/gnt]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/gnt/current' 'gnt'
+
+[Download/unpack/mageia/mgarepos/perl-Alien-Libxml2]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/perl-Alien-Libxml2/current' 'perl-Alien-Libxml2'
+
+[Download/unpack/mageia/mgarepos/perl-App-Timestamper-WithElapsed]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/perl-App-Timestamper-WithElapsed/current' 'perl-App-Timestamper-WithElapsed'
+
+[Download/unpack/mageia/mgarepos/perl-Code-TidyAll]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/perl-Code-TidyAll/current' 'perl-Code-TidyAll'
+
+[Download/unpack/mageia/mgarepos/perl-Code-TidyAll/perl-Pod-Readme]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/perl-Pod-Readme/current' 'perl-Pod-Readme'
+
+[Download/unpack/mageia/mgarepos/perl-DateTime-Format-Strptime]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/perl-DateTime-Format-Strptime/current' 'perl-DateTime-Format-Strptime'
+
+[Download/unpack/mageia/mgarepos/perl-Perl-Tidy]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/perl-Perl-Tidy/current' 'perl-Perl-Tidy'
+
+[Download/unpack/mageia/mgarepos/perl-Text-Hspell]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/perl-Text-Hspell/current' 'perl-Text-Hspell'
+
+[Download/unpack/mageia/mgarepos/phonon-gstreamer]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/phonon-gstreamer/current' 'phonon-gstreamer'
+
+[Download/unpack/mageia/mgarepos/ruby]
+checkout = svn co 'svn+ssh://svn.mageia.org/svn/packages/cauldron/ruby/current' 'ruby'
+
+[Download/unpack/math/polymino]
+checkout = git clone 'https://github.com/shlomif/polyomino' 'polymino'
+
+[Download/unpack/math/primesieve]
+checkout = git clone 'https://github.com/kimwalisch/primesieve' 'primesieve'
+
+[Download/unpack/mei-amt-check]
+checkout = git clone 'https://github.com/mjg59/mei-amt-check.git' 'mei-amt-check'
+
+[Download/unpack/mga-youri-core]
+checkout = git clone 'ssh://git@git.mageia.org/software/build-system/mga-youri-core' 'mga-youri-core'
+
+[Download/unpack/mgarepo]
+checkout = git clone 'ssh://git@git.mageia.org/software/build-system/mgarepo' 'mgarepo'
+
+[Download/unpack/multimedia/ccmixterdownloader]
+checkout = git clone 'https://github.com/cocreature/ccmixterdownloader.git' 'ccmixterdownloader'
+
+[Download/unpack/multimedia/ffmpeg/FFmpeg]
+checkout = git clone 'https://github.com/shlomif/FFmpeg.git' 'FFmpeg'
+
+[Download/unpack/multimedia/mpv/mpv]
+checkout = git clone 'https://github.com/mpv-player/mpv' 'mpv'
+
+[Download/unpack/multimedia/mpv-shuffle-test]
+checkout = git clone 'git@github.com:shlomif/mpv-shuffle-test.git' 'mpv-shuffle-test'
+
+[Download/unpack/multimedia/vlc/python]
+checkout = git clone 'git@github.com:shlomif/python-vlc.git' 'python'
+
+[Download/unpack/multimedia/vlc/vlc-3.0]
+checkout = git clone 'git://git.videolan.org/vlc/vlc-3.0.git' 'vlc-3.0'
+
+[Download/unpack/multimedia/vlc/vlc-git]
+checkout = git clone 'git@github.com:shlomif/vlc.git' 'vlc-git'
+
+[Download/unpack/multimedia/youtube-dl-1]
+checkout = git clone 'git@github.com:shlomif/youtube-dl-1.git' 'youtube-dl-1'
+
+[Download/unpack/net/claws]
+checkout = git clone 'http://git.claws-mail.org/readonly/claws.git' 'claws'
+
+[Download/unpack/net/hexchat]
+checkout = git clone 'https://github.com/hexchat/hexchat.git' 'hexchat'
+
+[Download/unpack/net/hexchat-vlcnp]
+checkout = git clone 'git@github.com:shlomif/hexchat-vlcnp.git' 'hexchat-vlcnp'
+
+[Download/unpack/net/hypermail]
+checkout = git clone 'git@github.com:shlomif/hypermail.git' 'hypermail'
+
+[Download/unpack/net/openssl]
+checkout = git clone 'https://github.com/openssl/openssl' 'openssl'
+
+[Download/unpack/net/pidgin/gplugin]
+checkout = hg clone 'ssh://hg@bitbucket.org/rw_grim/gplugin' 'gplugin'
+
+[Download/unpack/net/pidgin/old/purple-facebook]
+checkout = git clone 'https://github.com/dequis/purple-facebook' 'purple-facebook'
+
+[Download/unpack/net/pidgin/old/purple-facebook/.pidgin]
+checkout = hg clone 'https://bitbucket.org/pidgin/main' '.pidgin'
+
+[Download/unpack/net/pidgin/purple-facebook]
+checkout = git clone 'git@github.com:shlomif/purple-facebook.git' 'purple-facebook'
+
+[Download/unpack/net/pidgin/purple-facebook/.pidgin]
+checkout = hg clone 'https://keep.imfreedom.org/pidgin/pidgin' '.pidgin'
+
+[Download/unpack/net/pidgin/talkatu]
+checkout = hg clone 'https://bitbucket.org/pidgin/talkatu' 'talkatu'
+
+[Download/unpack/net/www/bookmarks-manager]
+checkout = git clone 'git@github.com:shlomif/bookmarks-manager.git' 'bookmarks-manager'
+
+[Download/unpack/net/www/html-minifier]
+checkout = git clone 'https://github.com/shlomif/html-minifier.git' 'html-minifier'
+
+[Download/unpack/net/www/lynx/lynx-browser]
+checkout = git clone 'git@github.com:shlomif/lynx-browser.git' 'lynx-browser'
+
+[Download/unpack/net/www/paste.pl]
+checkout = git clone 'https://github.com/shlomif/paste.pl.git' 'paste.pl'
+
+[Download/unpack/net/www/validator]
+checkout = git clone 'https://github.com/validator/validator' 'validator'
+
+[Download/unpack/office/epubcheck]
+checkout = git clone 'git@github.com:shlomif/epubcheck.git' 'epubcheck'
+
+[Download/unpack/office/gnumeric]
+checkout = git clone 'git@gitlab.gnome.org:shlomif/gnumeric.git' 'gnumeric'
+
+[Download/unpack/pango]
+checkout = git clone 'git@gitlab.gnome.org:shlomif/pango.git' 'pango'
+
+[Download/unpack/perl/cpan/CPAN-Uploader]
+checkout = git clone 'git@github.com:shlomif/CPAN-Uploader.git' 'CPAN-Uploader'
+
+[Download/unpack/perl/cpan/Dist-Zilla-Plugin-OSPrereqs]
+checkout = git clone 'git@github.com:shlomif/Dist-Zilla-Plugin-OSPrereqs.git' 'Dist-Zilla-Plugin-OSPrereqs'
+
+[Download/unpack/perl/cpan/Graph-Easy-As_svg]
+checkout = git clone 'git@github.com:shlomif/Graph-Easy-As_svg.git' 'Graph-Easy-As_svg'
+
+[Download/unpack/perl/cpan/Mojolicious-Quick]
+checkout = git clone 'git@github.com:shlomif/Mojolicious-Quick.git' 'Mojolicious-Quick'
+
+[Download/unpack/perl/cpan/Perl-Locale-gettext]
+checkout = git clone 'git@github.com:shlomif/Perl-Locale-gettext.git' 'Perl-Locale-gettext'
+
+[Download/unpack/perl/cpan/PerlPowerTools]
+checkout = git clone 'git@github.com:shlomif/PerlPowerTools.git' 'PerlPowerTools'
+
+[Download/unpack/perl/cpan/WWW-REST]
+checkout = git clone 'https://github.com/shlomif/perl-WWW-REST.git' 'WWW-REST'
+
+[Download/unpack/perl/cpan/app-cpan2pkg]
+checkout = git clone 'git@github.com:shlomif/app-cpan2pkg.git' 'app-cpan2pkg'
+
+[Download/unpack/perl/cpan/app-magpie]
+checkout = git clone 'git@github.com:shlomif/app-magpie.git' 'app-magpie'
+
+[Download/unpack/perl/cpan/cpan-deps-repo]
+checkout = git clone 'git@github.com:DrHyde/CPANdeps.git' 'cpan-deps-repo'
+
+[Download/unpack/perl/cpan/cpanplus-dist-mageia]
+checkout = git clone 'git@github.com:shlomif/cpanplus-dist-mageia.git' 'cpanplus-dist-mageia'
+
+[Download/unpack/perl/cpan/html-tidy5]
+checkout = git clone 'git@github.com:shlomif/html-tidy5.git' 'html-tidy5'
+
+[Download/unpack/perl/cpan/metacpan-developer]
+checkout = git clone 'https://github.com/metacpan/metacpan-developer' 'metacpan-developer'
+
+[Download/unpack/perl/cpan/mojox-redis]
+checkout = git clone 'https://github.com/shlomif/mojox-redis.git' 'mojox-redis'
+
+[Download/unpack/perl/cpan/paste/paste.pl]
+checkout = git clone 'git@github.com:shlomif/paste.debian.net-paste.pl.git' 'paste.pl'
+
+[Download/unpack/perl/cpan/perl-code-tidyall]
+checkout = git clone 'https://github.com/shlomif/perl-code-tidyall' 'perl-code-tidyall'
+
+[Download/unpack/perl/cpan/perl-ctypes]
+checkout = git clone 'https://git.gitorious.org/perl-ctypes/perl-ctypes.git' 'perl-ctypes'
+
+[Download/unpack/perl/cpan/perlfaq/perlfaq]
+checkout = git clone 'git@github.com:perl-doc-cats/perlfaq.git' 'perlfaq'
+
+[Download/unpack/perl/cpan/to-del/Markdent]
+checkout = git clone 'git@github.com:shlomif/Markdent.git' 'Markdent'
+
+[Download/unpack/perl/cpan/to-del/XML-LibXML-Iterator]
+checkout = git clone 'git@github.com:shlomif/XML-LibXML-Iterator.git' 'XML-LibXML-Iterator'
+
+[Download/unpack/perl/cpan/to-del/google-auth-library-perl]
+checkout = git clone 'git@github.com:cjac/google-auth-library-perl.git' 'google-auth-library-perl'
+
+[Download/unpack/perl/cpan/to-del/math-mpfr]
+checkout = git clone 'git@github.com:shlomif/math-mpfr.git' 'math-mpfr'
+
+[Download/unpack/perl/cpan/to-del/perl_fork_utils]
+checkout = git clone 'git@github.com:shlomif/perl_fork_utils.git' 'perl_fork_utils'
+
+[Download/unpack/perl/cpan/www-use.perl.org-server/useperl]
+checkout = git clone 'git@github.com:shlomif/useperl.git' 'useperl'
+
+[Download/unpack/perl/docs/modern-perl-book/modern_perl_book]
+checkout = git clone 'https://github.com/chromatic/modern_perl_book.git' 'modern_perl_book'
+
+[Download/unpack/perl/docs/perl-tutorial-org-data/perl-tutorial-org-data]
+checkout = git clone 'git@github.com:shlomif/perl-tutorial-org-data.git' 'perl-tutorial-org-data'
+
+[Download/unpack/perl/irc/old]
+checkout = git clone 'git@github.com:shlomif/perlbuut.git' 'old'
+
+[Download/unpack/perl/irc/perlbuut]
+checkout = git clone 'https://github.com/perlbot/perlbuut' 'perlbuut'
+
+[Download/unpack/perl/metacpan-puppet]
+checkout = git clone 'https://github.com/shlomif/metacpan-puppet' 'metacpan-puppet'
+
+[Download/unpack/perl/p5/Gtk2-Perl-Demo]
+checkout = git clone 'git@github.com:shlomif/Gtk2-Perl-Demo.git' 'Gtk2-Perl-Demo'
+
+[Download/unpack/perl/p5/git/perl]
+checkout = git clone 'git@github.com:shlomif/perl5.git' 'perl'
+
+[Download/unpack/perl/p5/possible-perl-bug-segfault-on-nAF]
+checkout = git clone 'git@github.com:shlomif/possible-perl-bug--sandglass-golf.git' 'possible-perl-bug-segfault-on-nAF'
+
+[Download/unpack/perl/p5/possible-perl-f-hash-bug]
+checkout = git clone 'git@github.com:shlomif/possible-perl-ln-f-hash-bug.git' 'possible-perl-f-hash-bug'
+
+[Download/unpack/perl/p6/CI-Gen]
+checkout = git clone 'https://github.com/shlomif/ci-gen-framework' 'CI-Gen'
+
+[Download/unpack/perl/p6/CI-Gen/perl6-CI-Gen/zef]
+checkout = git clone 'https://github.com/ugexe/zef.git' 'zef'
+
+[Download/unpack/perl/p6/CI-Gen/rakubrew.org]
+checkout = git clone 'https://github.com/Raku/rakubrew.org' 'rakubrew.org'
+
+[Download/unpack/perl/p6/P6-Data-Dump-Tree]
+checkout = git clone 'https://github.com/shlomif/P6-Data-Dump-Tree.git' 'P6-Data-Dump-Tree'
+
+[Download/unpack/perl/p6/ci-gen-framework]
+checkout = git clone 'git@github.com:shlomif/ci-gen-framework.git' 'ci-gen-framework'
+
+[Download/unpack/perl/p6/doc]
+checkout = git clone 'git@github.com:shlomif/doc.git' 'doc'
+
+[Download/unpack/perl/p6/doc/highlights/atom-language-perl6]
+checkout = git clone 'https://github.com/perl6/atom-language-perl6' 'atom-language-perl6'
+
+[Download/unpack/perl/p6/euler618]
+checkout = git clone 'https://github.com/shlomif/euler-618.git' 'euler618'
+
+[Download/unpack/perl/p6/lonestar]
+checkout = git clone 'https://gitlab.com/tyil/lonestar' 'lonestar'
+
+[Download/unpack/perl/p6/perl6-benchmarks]
+checkout = git clone 'git@github.com:shlomif/perl6-benchmarks.git' 'perl6-benchmarks'
+
+[Download/unpack/perl/p6/perl6-examples]
+checkout = git clone 'git@github.com:shlomif/perl6-examples.git' 'perl6-examples'
+
+[Download/unpack/perl/p6/rakudo-git-master/rakudo]
+checkout = git clone 'https://github.com/rakudo/rakudo' 'rakudo'
+
+[Download/unpack/perl/p6/rakudo-git-master/rakudo/nqp]
+checkout = git clone 'https://github.com/perl6/nqp.git' 'nqp'
+
+[Download/unpack/perl/p6/rakudo-git-master/rakudo/nqp/MoarVM]
+checkout = git clone 'https://github.com/MoarVM/MoarVM.git' 'MoarVM'
+
+[Download/unpack/perl/p6/rd]
+checkout = git clone 'https://github.com/zoffixznet/rd' 'rd'
+
+[Download/unpack/perl/p6/s/rakudo-git-master-install]
+checkout = git clone 'https://github.com/shlomif/rakudo-git-master-install' 'rakudo-git-master-install'
+
+[Download/unpack/perl/perl5-for-JavaScript--take2]
+checkout = git clone 'https://github.com/shlomif/perl5-for-JavaScript--take2' 'perl5-for-JavaScript--take2'
+
+[Download/unpack/perl/perlresume.org]
+checkout = git clone 'https://github.com/shlomif/perlresume.org.git' 'perlresume.org'
+
+[Download/unpack/perl/perlweekly]
+checkout = git clone 'https://github.com/shlomif/perlweekly.git' 'perlweekly'
+
+[Download/unpack/perl/web-sites-code-maven/code-maven.com]
+checkout = git clone 'https://github.com/shlomif/code-maven.com.git' 'code-maven.com'
+
+[Download/unpack/perl/web-sites-perl.org/perlweb]
+checkout = git clone 'git@github.com:shlomif/perlweb.git' 'perlweb'
+
+[Download/unpack/perl/web-sites-perl.org.il/perl.org.il]
+checkout = git clone 'git@github.com:shlomif/perl.org.il.git' 'perl.org.il'
+
+[Download/unpack/perl/web-sites-perl6maven/perl6maven.com]
+checkout = git clone 'git@github.com:shlomif/perl6maven.com.git' 'perl6maven.com'
+
+[Download/unpack/perl/zavitan-semiman/semiman-git]
+checkout = git clone 'https://github.com/shlomif/zavitan-a-seminars-manager' 'semiman-git'
+
+[Download/unpack/prog/GitHub/dashboard]
+checkout = git clone 'https://github.com/shlomif/github-dashboard.git' 'dashboard'
+
+[Download/unpack/prog/awesome-lists/awesome-c]
+checkout = git clone 'git@github.com:shlomif/awesome-c.git' 'awesome-c'
+
+[Download/unpack/prog/awesome-lists/awesome-guidelines]
+checkout = git clone 'https://github.com/shlomif/awesome-guidelines' 'awesome-guidelines'
+
+[Download/unpack/prog/awesome-lists/awesome-linters]
+checkout = git clone 'git@github.com:shlomif/awesome-linters.git' 'awesome-linters'
+
+[Download/unpack/prog/awesome-lists/awesome-python]
+checkout = git clone 'git@github.com:shlomif/awesome-python.git' 'awesome-python'
+
+[Download/unpack/prog/awesome-lists/awesome-regex]
+checkout = git clone 'https://github.com/shlomif/awesome-regex' 'awesome-regex'
+
+[Download/unpack/prog/boilerplate-emscripten-typescript]
+checkout = git clone 'https://github.com/snowcoders/boilerplate-emscripten-typescript' 'boilerplate-emscripten-typescript'
+
+[Download/unpack/prog/c/countertree_2.0]
+checkout = git clone 'git@github.com:shlomif/countertree_2.0.git' 'countertree_2.0'
+
+[Download/unpack/prog/c/emcc-array-of-pointers-example]
+checkout = git clone 'git@github.com:shlomif/emcc-array-of-pointers-example.git' 'emcc-array-of-pointers-example'
+
+[Download/unpack/prog/c/emcc-example]
+checkout = git clone 'git@github.com:shlomif/emcc-array-of-pointers-example.git' 'emcc-example'
+
+[Download/unpack/prog/cook]
+checkout = git clone 'https://github.com/shlomif/cook' 'cook'
+
+[Download/unpack/prog/fizzbuzz]
+checkout = git clone 'https://github.com/anglus/fizzbuzz' 'fizzbuzz'
+
+[Download/unpack/prog/ghcup]
+checkout = git clone 'https://github.com/haskell/ghcup/' 'ghcup'
+
+[Download/unpack/prog/glib]
+checkout = git clone 'git@gitlab.gnome.org:shlomif/glib.git' 'glib'
+
+[Download/unpack/prog/gmake-profiling-patch/make]
+checkout = git clone 'git@github.com:shlomif/make.git' 'make'
+
+[Download/unpack/prog/gmake-profiling-patch/make-profiler]
+checkout = git clone 'https://github.com/eddyp/make-profiler' 'make-profiler'
+
+[Download/unpack/prog/gperf/gperf-for-windows]
+checkout = git clone 'git@github.com:shlomif/gperf-for-windows.git' 'gperf-for-windows'
+
+[Download/unpack/prog/llvm-to-js/emsdk]
+checkout = git clone 'git@github.com:shlomif/emsdk.git' 'emsdk'
+
+[Download/unpack/prog/llvm-to-js/emsdk/releases]
+checkout = git clone 'https://chromium.googlesource.com/emscripten-releases' 'releases'
+
+[Download/unpack/prog/metrixplusplus-mainline]
+checkout = svn co 'https://svn.code.sf.net/p/metrixplusplus/code/mainline' 'metrixplusplus-mainline'
+
+[Download/unpack/prog/mold]
+checkout = git clone 'https://github.com/rui314/mold' 'mold'
+
+[Download/unpack/prog/open-source-ideas]
+checkout = git clone 'git@github.com:shlomif/open-source-ideas.git' 'open-source-ideas'
+
+[Download/unpack/prog/open-source-jobs]
+checkout = git clone 'git@github.com:shlomif/open-source-jobs.git' 'open-source-jobs'
+
+[Download/unpack/prog/python/pip]
+checkout = git clone 'https://github.com/shlomif/pip' 'pip'
+
+[Download/unpack/prog/python/primesieve-python]
+checkout = git clone 'https://github.com/shlomif/primesieve-python' 'primesieve-python'
+
+[Download/unpack/prog/python/pypi-updates]
+checkout = git clone 'https://github.com/shlomif/pypi-updates' 'pypi-updates'
+
+[Download/unpack/prog/web/validator-1.1]
+checkout = git clone 'https://github.com/periapt/w3c-sgml-lib' 'validator-1.1'
+
+[Download/unpack/prog/xxHash]
+checkout = git clone 'git@github.com:shlomif/xxHash.git' 'xxHash'
+
+[Download/unpack/reposurgeon]
+checkout = git clone 'git@gitlab.com:shlomif/reposurgeon.git' 'reposurgeon'
+
+[Download/unpack/scm-backup]
+checkout = git clone 'https://github.com/christianspecht/scm-backup/' 'scm-backup'
+
+[Download/unpack/snaptile]
+checkout = git clone 'https://github.com/jakebian/snaptile' 'snaptile'
+
+[Download/unpack/sys/parallel]
+checkout = git clone 'https://git.savannah.gnu.org/git/parallel.git' 'parallel'
+
+[Download/unpack/sys/pyp2rpm/pyp2rpm]
+checkout = git clone 'git@github.com:shlomif/pyp2rpm.git' 'pyp2rpm'
+
+[Download/unpack/sys/smem/hg/smem]
+checkout = hg clone 'http://selenic.com/repo/smem' 'smem'
+
+[Download/unpack/sys/smem/smem]
+checkout = git clone 'https://github.com/shlomif/smem' 'smem'
+
+[Download/unpack/sys/termdown]
+checkout = git clone 'git@github.com:shlomif/termdown.git' 'termdown'
+
+[Download/unpack/thrig-scripts/scripts]
+checkout = git clone 'https://github.com/shlomif/scripts' 'scripts'
+
+[Download/unpack/to-del/Awesome-Black-Friday-Cyber-Monday-deals]
+checkout = git clone 'git@github.com:shlomif/Awesome-Black-Friday-Cyber-Monday-deals.git' 'Awesome-Black-Friday-Cyber-Monday-deals'
+
+[Download/unpack/to-del/New]
+checkout = git clone 'https://github.com/notasuperhero/New' 'New'
+
+[Download/unpack/to-del/New/_opencv]
+checkout = git clone 'https://github.com/opencv/opencv' '_opencv'
+
+[Download/unpack/to-del/awesome-graphics-programming]
+checkout = git clone 'git@github.com:shlomif/awesome-graphics-programming.git' 'awesome-graphics-programming'
+
+[Download/unpack/to-del/coreutils]
+checkout = git clone 'https://github.com/uutils/coreutils.git' 'coreutils'
+
+[Download/unpack/to-del/jest-ts-jest-problem]
+checkout = git clone 'https://github.com/EdwardIII/jest-ts-jest-problem' 'jest-ts-jest-problem'
+
+[Download/unpack/to-del/zlib-ng]
+checkout = git clone 'git@github.com:shlomif/zlib-ng.git' 'zlib-ng'
+
+[Download/unpack/web-sites/amigojapan.github.io]
+checkout = git clone 'git@github.com:shlomif/amigojapan.github.io.git' 'amigojapan.github.io'
+
+[Download/unpack/web-sites/awesome-opensource-israel]
+checkout = git clone 'git@github.com:shlomif/awesome-opensource-israel.git' 'awesome-opensource-israel'
+
+[Download/unpack/xml/docbook-wiki]
+checkout = git clone 'https://github.com/docbook/wiki.wiki.git' 'docbook-wiki'
+
+[Download/unpack/xml/libxml2]
+checkout = git clone 'https://gitlab.gnome.org/GNOME/libxml2' 'libxml2'
+
+[Download/unpack/xml/libxslt/libxslt]
+checkout = git clone 'git://git.gnome.org/libxslt' 'libxslt'
+
+[Download/unpack/xv6-public]
+checkout = git clone 'git://github.com/mit-pdos/xv6-public.git' 'xv6-public'
+
+[Download/unpack/youri-check]
+checkout = git clone 'https://github.com/shlomif/youri-check' 'youri-check'
+
+[Download/web-sites/branchable/copy]
+checkout = git clone 'git://shlomifishswiki.branchable.com/' 'copy'
+
+[Download/web-sites/branchable/copy2]
+checkout = git clone '/home/shlomif/Download/web-sites/branchable/shlomifishswiki.branchable.com' 'copy2'
+
+[Download/web-sites/branchable/copy3]
+checkout = git clone 'git://shlomifishswiki.branchable.com/' 'copy3'
+
+[Download/web-sites/branchable/shlomifishswiki.branchable.com]
+checkout = git clone 'git://shlomifishswiki.branchable.com/' 'shlomifishswiki.branchable.com'
+
+[apps/golang/src/github.com/dustin/go-humanize]
+checkout = git clone 'https://github.com/dustin/go-humanize' 'go-humanize'
+
+[apps/golang/src/github.com/fsnotify/fsnotify]
+checkout = git clone 'https://github.com/fsnotify/fsnotify' 'fsnotify'
+
+[apps/golang/src/github.com/matryer/try]
+checkout = git clone 'https://github.com/matryer/try' 'try'
+
+[apps/golang/src/github.com/spf13/pflag]
+checkout = git clone 'https://github.com/spf13/pflag' 'pflag'
+
+[apps/golang/src/github.com/tdewolff/minify]
+checkout = git clone 'https://github.com/tdewolff/minify' 'minify'
+
+[apps/golang/src/github.com/tdewolff/parse]
+checkout = git clone 'https://github.com/tdewolff/parse' 'parse'
+
+[apps/golang/src/golang.org/x/sys]
+checkout = git clone 'https://go.googlesource.com/sys' 'sys'
+
+[bin/__find-trailing-space-git]
+checkout = git clone 'git@bitbucket.org:shlomif/shlomif-find-trailing-space-git.git' '__find-trailing-space-git'
+
+[bin/private]
+checkout = git clone 'git@bitbucket.org:shlomif/home-shlomif-bin-private' 'private'
+
+[conf/desktop/wallpapers/kde4/scripted-wallpaper]
+checkout = git clone 'git@github.com:shlomif/scripted-wallpaper.git' 'scripted-wallpaper'
+
+[conf/email/convert-away-from-kmail/git]
+checkout = git clone 'https://github.com/shlomif/convert-away-from-kmail' 'git'
+
+[conf/kernel]
+checkout = git clone 'git@github.com:shlomif/shlomif-linux-kernel-configurations.git' 'kernel'
+
+[conf/trunk]
+checkout = git clone 'git@github.com:shlomif/shlomif-computer-settings.git' 'trunk'
+
+[conf/trunk/shlomif-settings/Bash/zsh-completions]
+checkout = git clone 'https://github.com/zsh-users/zsh-completions.git' 'zsh-completions'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/Command-T]
+checkout = git clone 'git://github.com/wincent/Command-T' 'Command-T'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/The_NERD_tree]
+checkout = git clone 'git://github.com/scrooloose/nerdtree' 'The_NERD_tree'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/UltiSnips]
+checkout = git clone 'git://github.com/SirVer/ultisnips' 'UltiSnips'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/ack]
+checkout = git clone 'git://github.com/mileszs/ack.vim' 'ack'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/ctrlp]
+checkout = git clone 'git://github.com/kien/ctrlp.vim' 'ctrlp'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/git-https-gitlab.com-dylnmc-novum.vim]
+checkout = git clone 'https://gitlab.com/dylnmc/novum.vim' 'git-https-gitlab.com-dylnmc-novum.vim'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/github-Carpetsmoker-auto_mkdir2.vim]
+checkout = git clone 'git://github.com/Carpetsmoker/auto_mkdir2.vim' 'github-Carpetsmoker-auto_mkdir2.vim'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/github-Glench-Vim-Jinja2-Syntax]
+checkout = git clone 'git://github.com/Glench/Vim-Jinja2-Syntax' 'github-Glench-Vim-Jinja2-Syntax'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/github-Houl-cxf_mod-vim]
+checkout = git clone 'git://github.com/Houl/cxf_mod-vim' 'github-Houl-cxf_mod-vim'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/github-JuliaEditorSupport-julia-vim]
+checkout = git clone 'git://github.com/JuliaEditorSupport/julia-vim' 'github-JuliaEditorSupport-julia-vim'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/github-aaronbieber-quicktask]
+checkout = git clone 'git://github.com/aaronbieber/quicktask' 'github-aaronbieber-quicktask'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/github-alessandroyorba-alduin]
+checkout = git clone 'git://github.com/alessandroyorba/alduin' 'github-alessandroyorba-alduin'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/github-antoyo-vim-licenses]
+checkout = git clone 'git://github.com/antoyo/vim-licenses' 'github-antoyo-vim-licenses'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/github-aperezdc-vim-template]
+checkout = git clone 'git://github.com/aperezdc/vim-template' 'github-aperezdc-vim-template'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/github-cakebaker-scss-syntax.vim]
+checkout = git clone 'git://github.com/cakebaker/scss-syntax.vim' 'github-cakebaker-scss-syntax.vim'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/github-cespare-vim-toml]
+checkout = git clone 'git://github.com/cespare/vim-toml' 'github-cespare-vim-toml'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/github-dahu-Area-41]
+checkout = git clone 'git://github.com/dahu/Area-41' 'github-dahu-Area-41'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/github-flazz-vim-colorschemes]
+checkout = git clone 'git://github.com/flazz/vim-colorschemes' 'github-flazz-vim-colorschemes'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/github-godlygeek-csapprox]
+checkout = git clone 'git://github.com/godlygeek/csapprox' 'github-godlygeek-csapprox'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/github-godlygeek-tabular]
+checkout = git clone 'git://github.com/godlygeek/tabular' 'github-godlygeek-tabular'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/github-honza-vim-snippets]
+checkout = git clone 'git://github.com/honza/vim-snippets' 'github-honza-vim-snippets'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/github-inkarkat-SyntaxAttr.vim]
+checkout = git clone 'git://github.com/inkarkat/SyntaxAttr.vim' 'github-inkarkat-SyntaxAttr.vim'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/github-ironcamel-vim-script-runner]
+checkout = git clone 'git://github.com/ironcamel/vim-script-runner' 'github-ironcamel-vim-script-runner'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/github-jeetsukumaran-vim-pythonsense]
+checkout = git clone 'git://github.com/jeetsukumaran/vim-pythonsense' 'github-jeetsukumaran-vim-pythonsense'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/github-jiangmiao-auto-pairs]
+checkout = git clone 'git://github.com/jiangmiao/auto-pairs' 'github-jiangmiao-auto-pairs'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/github-jlanzarotta-bufexplorer]
+checkout = git clone 'git://github.com/jlanzarotta/bufexplorer' 'github-jlanzarotta-bufexplorer'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/github-junegunn-fzf]
+checkout = git clone 'git://github.com/junegunn/fzf' 'github-junegunn-fzf'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/github-junegunn-fzf.vim]
+checkout = git clone 'git://github.com/junegunn/fzf.vim' 'github-junegunn-fzf.vim'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/github-leafgarland-typescript-vim]
+checkout = git clone 'git://github.com/leafgarland/typescript-vim' 'github-leafgarland-typescript-vim'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/github-majutsushi-tagbar]
+checkout = git clone 'git://github.com/majutsushi/tagbar' 'github-majutsushi-tagbar'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/github-mattn-emmet-vim]
+checkout = git clone 'git://github.com/mattn/emmet-vim' 'github-mattn-emmet-vim'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/github-nacitar-a.vim]
+checkout = git clone 'git://github.com/nacitar/a.vim' 'github-nacitar-a.vim'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/github-nvie-vim-flake8]
+checkout = git clone 'git://github.com/nvie/vim-flake8' 'github-nvie-vim-flake8'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/github-pboettch-vim-cmake-syntax]
+checkout = git clone 'git://github.com/pboettch/vim-cmake-syntax' 'github-pboettch-vim-cmake-syntax'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/github-plasticboy-vim-markdown]
+checkout = git clone 'git://github.com/plasticboy/vim-markdown' 'github-plasticboy-vim-markdown'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/github-prettier-vim-prettier]
+checkout = git clone 'git://github.com/prettier/vim-prettier' 'github-prettier-vim-prettier'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/github-qpkorr-vim-bufkill]
+checkout = git clone 'git://github.com/qpkorr/vim-bufkill' 'github-qpkorr-vim-bufkill'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/github-raghur-vim-ghost]
+checkout = git clone 'git://github.com/raghur/vim-ghost' 'github-raghur-vim-ghost'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/github-romainl-Apprentice]
+checkout = git clone 'git://github.com/romainl/Apprentice' 'github-romainl-Apprentice'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/github-shlomif-mojovai]
+checkout = git clone 'git://github.com/shlomif/mojovai' 'github-shlomif-mojovai'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/github-shlomif-syntax-spork]
+checkout = git clone 'git://github.com/shlomif/syntax-spork' 'github-shlomif-syntax-spork'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/github-shlomif-vim-extract-variable]
+checkout = git clone 'https://github.com/shlomif/vim-extract-variable.git' 'github-shlomif-vim-extract-variable'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/github-shlomif-vim-freecell]
+checkout = git clone 'git://github.com/shlomif/vim-freecell' 'github-shlomif-vim-freecell'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/github-shlomif-vim-gitignore]
+checkout = git clone 'git://github.com/shlomif/vim-gitignore' 'github-shlomif-vim-gitignore'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/github-shlomif-vim-screenplay-text]
+checkout = git clone 'git://github.com/shlomif/vim-screenplay-text' 'github-shlomif-vim-screenplay-text'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/github-sjl-gundo.vim]
+checkout = git clone 'git://github.com/sjl/gundo.vim' 'github-sjl-gundo.vim'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/github-sunuslee-vim-plugin-random-colorscheme-picker]
+checkout = git clone 'git://github.com/sunuslee/vim-plugin-random-colorscheme-picker' 'github-sunuslee-vim-plugin-random-colorscheme-picker'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/github-terryma-vim-expand-region]
+checkout = git clone 'git://github.com/terryma/vim-expand-region' 'github-terryma-vim-expand-region'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/github-thinca-vim-quickrun]
+checkout = git clone 'git://github.com/thinca/vim-quickrun' 'github-thinca-vim-quickrun'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/github-timonv-vim-cargo]
+checkout = git clone 'git://github.com/timonv/vim-cargo' 'github-timonv-vim-cargo'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/github-tomasr-molokai]
+checkout = git clone 'git://github.com/tomasr/molokai' 'github-tomasr-molokai'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/github-tpope-vim-fugitive]
+checkout = git clone 'git://github.com/tpope/vim-fugitive' 'github-tpope-vim-fugitive'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/github-tpope-vim-rhubarb]
+checkout = git clone 'git://github.com/tpope/vim-rhubarb' 'github-tpope-vim-rhubarb'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/github-vim-airline-vim-airline-themes]
+checkout = git clone 'git://github.com/vim-airline/vim-airline-themes' 'github-vim-airline-vim-airline-themes'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/github-vim-perl-vim-perl]
+checkout = git clone 'git://github.com/vim-perl/vim-perl' 'github-vim-perl-vim-perl'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/github-vim-perl-vim-perl6]
+checkout = git clone 'git://github.com/vim-perl/vim-perl6' 'github-vim-perl-vim-perl6'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/github-vim-syntastic-syntastic]
+checkout = git clone 'git://github.com/vim-syntastic/syntastic' 'github-vim-syntastic-syntastic'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/powerline]
+checkout = git clone 'git://github.com/Lokaltog/powerline' 'powerline'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/repeat]
+checkout = git clone 'git://github.com/tpope/vim-repeat' 'repeat'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/surround]
+checkout = git clone 'git://github.com/tpope/vim-surround' 'surround'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/textobj-rubyblock]
+checkout = git clone 'git://github.com/nelstrom/vim-textobj-rubyblock' 'textobj-rubyblock'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/textobj-user]
+checkout = git clone 'git://github.com/kana/vim-textobj-user' 'textobj-user'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/vcscommand]
+checkout = git clone 'git://repo.or.cz/vcscommand' 'vcscommand'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/vim-addon-manager]
+checkout = git clone 'https://github.com/MarcWeber/vim-addon-manager.git' 'vim-addon-manager'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/vim-addon-manager-known-repositories]
+checkout = git clone 'git://github.com/MarcWeber/vim-addon-manager-known-repositories.git' 'vim-addon-manager-known-repositories'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/vim-airline]
+checkout = git clone 'git://github.com/vim-airline/vim-airline' 'vim-airline'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/vim-pi]
+checkout = git clone 'https://bitbucket.org/vimcommunity/vim-pi' 'vim-pi'
+
+[conf/trunk/shlomif-settings/vim-conf/dot-vim/xml]
+checkout = git clone 'git://github.com/othree/xml.vim' 'xml'
+
+[lynx]
+checkout = git clone 'ssh://shlomif@pkgs.fedoraproject.org/rpms/lynx' 'lynx'
+
+[progs/C/cmake-modules/trunk]
+checkout = git clone 'https://github.com/shlomif/shlomif-cmake-modules' 'trunk'
+
+[progs/C/debian/rinutils]
+checkout = git clone 'git@salsa.debian.org:shlomif-guest/rinutils.git' 'rinutils'
+
+[progs/C/euler-455-sensors-report-overheating]
+checkout = git clone 'git@github.com:shlomif/linux-lm-sensors-report-overheating.git' 'euler-455-sensors-report-overheating'
+
+[progs/C/fortune-mod/git/fortune-mod]
+checkout = git clone 'git@github.com:shlomif/fortune-mod.git' 'fortune-mod'
+
+[progs/C/fortune-mod/git/fortune-mod/jkirchartz]
+checkout = git clone 'git@github.com:shlomif/fortunes.git' 'jkirchartz'
+
+[progs/C/fortune-mod/git/fortune-mod/scripts/debian-packaging/rinutils]
+checkout = git clone 'git@salsa.debian.org:shlomif-guest/rinutils.git' 'rinutils'
+
+[progs/C/fortune-mod/git/fortune-mod/scripts/fortune-mod]
+checkout = git clone 'git@salsa.debian.org:shlomif-guest/fortune-mod.git' 'fortune-mod'
+
+[progs/C/fortune-mod/git/fortune-mod/scripts/rinutils]
+checkout = git clone 'git@salsa.debian.org:shlomif-guest/rinutils.git' 'rinutils'
+
+[progs/C/gringotts/gringotts]
+checkout = git clone 'git@github.com:shlomif/gringotts.git' 'gringotts'
+
+[progs/C/gringotts/gringotts/c-src/rinutils]
+checkout = git clone 'https://github.com/shlomif/rinutils.git' 'rinutils'
+
+[progs/C/heaps/git]
+checkout = git clone 'https://github.com/shlomif/peter-sanders-priority-queues' 'git'
+
+[progs/C/inkscape/bezier-envelope]
+checkout = git clone 'git@github.com:shlomif/Bezier-Envelope-for-Inkscape.git' 'bezier-envelope'
+
+[progs/C/libtap-prev]
+checkout = git clone 'https://github.com/shlomif/libtap-prev' 'libtap-prev'
+
+[progs/C/mini-factor]
+checkout = git clone 'https://github.com/shlomif/mini-factor' 'mini-factor'
+
+[progs/C/pthreads/rwlock/fcfs-rwlock]
+checkout = git clone 'https://github.com/shlomif/fcfs-rwlock' 'fcfs-rwlock'
+
+[progs/C/rinutils]
+checkout = git clone 'git@github.com:shlomif/rinutils.git' 'rinutils'
+
+[progs/C/snippets]
+checkout = git clone 'git@github.com:shlomif/shlomif-c-snippets.git' 'snippets'
+
+[progs/JS/browser-userscripts]
+checkout = git clone 'https://github.com/shlomif/browser-userscripts' 'browser-userscripts'
+
+[progs/JS/web-developer-tools/open-web-developer-tools]
+checkout = git clone 'https://github.com/shlomif/open-web-developer-tools.git' 'open-web-developer-tools'
+
+[progs/Old/PostScript/PostScript-gradients-tests]
+checkout = git clone 'git@github.com:shlomif/PostScript-gradients-tests.git' 'PostScript-gradients-tests'
+
+[progs/Old/haskell]
+checkout = git clone 'git@github.com:shlomif/Old-Haskell-Programs.git' 'haskell'
+
+[progs/Old/lisp/99-problems/99-problems]
+checkout = git clone 'https://github.com/shlomif/99-problems-in-lisp' '99-problems'
+
+[progs/Old/lisp/lurk/git]
+checkout = git clone 'https://github.com/shlomif/lurking' 'git'
+
+[progs/Old/lua-samples]
+checkout = git clone 'git@github.com:shlomif/lua-samples.git' 'lua-samples'
+
+[progs/Old/net-www/DeCSS_4_JS]
+checkout = git clone 'git@bitbucket.org:shlomif/decss-for-javascript.git' 'DeCSS_4_JS'
+
+[progs/Old/prolog]
+checkout = git clone 'git@github.com:shlomif/shlomif-prolog-learning.git' 'prolog'
+
+[progs/Rpms]
+checkout = git clone 'https://github.com/shlomif/rpm-sources' 'Rpms'
+
+[progs/Work/Apply-Mobile-Tech/git/hasnet]
+checkout = git clone 'git@github.com:dan-apply/hasnet.git' 'hasnet'
+
+[progs/Work/Asaf/monitoring-hadoop-cluster-work/git]
+checkout = git clone 'git@github.com:xplenty/xplenty-monitoring.git' 'git'
+
+[progs/Work/T-Saver/git/tsaver-server]
+checkout = git clone 'git@bitbucket.org:tsaver/tsaver-server.git' 'tsaver-server'
+
+[progs/Work/Uri-Gordon/inflow]
+checkout = git clone 'git@bitbucket.org:ugordon/inflow.git' 'inflow'
+
+[progs/Work/dosbox-midi/svnsync-repos/dosbox]
+checkout = git clone 'https://github.com/shlomif/dosbox' 'dosbox'
+
+[progs/Work/from-lap/Work/BDR]
+checkout = git clone 'git@bitbucket.org:shlomif/bdr-linux-driver-project.git' 'BDR'
+
+[progs/Work/icu-in-js]
+checkout = git clone 'ssh://git@github.com/devinesystems/icu-in-js' 'icu-in-js'
+
+[progs/Work/reask/reask]
+checkout = git clone 'ssh://gitolite@proto.reask.com/reask' 'reask'
+
+[progs/Work/rmah/btc-gateway]
+checkout = git clone 'git@gitlab.com:shlomif/btc-gateway.git' 'btc-gateway'
+
+[progs/Work/script-for-gromp-data-file]
+checkout = git clone 'git@bitbucket.org:shlomif/convert-sjs-script-for-gromp.git' 'script-for-gromp-data-file'
+
+[progs/Work/sqis_review]
+checkout = git clone 'git@github.com:tobwen/sqis_review.git' 'sqis_review'
+
+[progs/dev-null-service]
+checkout = git clone 'git@github.com:shlomif/dev-null-service.git' 'dev-null-service'
+
+[progs/firefox/enhanced-find-search]
+checkout = git clone 'https://github.com/shlomif/firefox-enhanced-find-extension' 'enhanced-find-search'
+
+[progs/freecell/Stats/bakers-dozen/fc-solve-bakers-dozen-benchmark-and-analysis]
+checkout = git clone 'git@github.com:shlomif/fc-solve-bakers-dozen-1-to-1K.git' 'fc-solve-bakers-dozen-benchmark-and-analysis'
+
+[progs/freecell/Stats/freecell/4-freecells/1e9/Freecell-4fc-solving-logs]
+checkout = git clone 'git@github.com:shlomif/Freecell-4fc-solving-logs.git' 'Freecell-4fc-solving-logs'
+
+[progs/freecell/extern/KlondikeSolver/Klondike-Solver]
+checkout = git clone 'git@github.com:shlomif/Klondike-Solver.git' 'Klondike-Solver'
+
+[progs/freecell/extern/Shirl-Hart/freecell-solver-1]
+checkout = git clone 'git@github.com:shlomif/freecell-solver-1.git' 'freecell-solver-1'
+
+[progs/freecell/extern/Shirl-Hart/reduced-size]
+checkout = git clone 'git@github.com:shlomif/shirl-hart-freecell-solver.git' 'reduced-size'
+
+[progs/freecell/extern/ai-freecell]
+checkout = git clone 'git@github.com:shlomif/Kevin-Atkinson-AI-Freecell-Solver-in-Lisp.git' 'ai-freecell'
+
+[progs/freecell/git/emsdk]
+checkout = git clone 'https://github.com/emscripten-core/emsdk' 'emsdk'
+
+[progs/freecell/git/fc-solve]
+checkout = git clone 'git@github.com:shlomif/fc-solve.git' 'fc-solve'
+
+[progs/freecell/git/fc-solve/fc-solve/site/wml/lib/jquery/jquery-phoenix]
+checkout = git clone 'https://github.com/kugaevsky/jquery-phoenix/' 'jquery-phoenix'
+
+[progs/freecell/git/fc-solve/fc-solve/site/wml/lib/repos/Solitairey]
+checkout = git clone 'https://github.com/foss-card-games/Solitairey.git' 'Solitairey'
+
+[progs/freecell/git/fc-solve/fc-solve/site/wml/lib/repos/Solitairey/jStorage]
+checkout = git clone 'https://github.com/andris9/jStorage' 'jStorage'
+
+[progs/freecell/git/fc-solve/fc-solve/site/wml/lib/repos/rinutils]
+checkout = git clone 'https://github.com/shlomif/rinutils' 'rinutils'
+
+[progs/freecell/git/fc-solve/fc-solve/source/patsolve]
+checkout = git clone 'https://github.com/shlomif/patsolve.git' 'patsolve'
+
+[progs/freecell/git/fc-solve/fc-solve/source/patsolve/patsolve/rinutils]
+checkout = git clone 'https://github.com/shlomif/rinutils.git' 'rinutils'
+
+[progs/freecell/git/fc-solve/fc-solve/source/xxHash-wrapper]
+checkout = git clone 'https://github.com/shlomif/xxHash-wrapper' 'xxHash-wrapper'
+
+[progs/freecell/git/freecell-pro-impossible-deals]
+checkout = git clone 'git@github.com:shlomif/freecell-pro-impossible-deals.git' 'freecell-pro-impossible-deals'
+
+[progs/freecell/git/ids-whitelist]
+checkout = git clone 'git@github.com:shlomif/fc-solve--ids-whitelist.git' 'ids-whitelist'
+
+[progs/freecell/git/intractable-freecell-pro-deals]
+checkout = git clone 'git@github.com:shlomif/freecell-pro-intractable-deals.git' 'intractable-freecell-pro-deals'
+
+[progs/freecell/git/prod-fcs]
+checkout = git clone '/home/shlomif/progs/freecell/git/fc-solve/' 'prod-fcs'
+
+[progs/freecell/git/prod-fcs/fc-solve/source/patsolve]
+checkout = git clone 'https://github.com/shlomif/patsolve.git' 'patsolve'
+
+[progs/freecell/git/prod-fcs/fc-solve/source/xxHash-wrapper]
+checkout = git clone 'https://github.com/shlomif/xxHash-wrapper.git' 'xxHash-wrapper'
+
+[progs/freecell/git/pysol-cards/pysol_cards]
+checkout = git clone 'git@github.com:shlomif/pysol_cards.git' 'pysol_cards'
+
+[progs/freecell/git/python-freecell_solver]
+checkout = git clone 'git@github.com:shlomif/python-freecell_solver.git' 'python-freecell_solver'
+
+[progs/games/abc-path/trunk]
+checkout = git clone 'git@github.com:shlomif/abc-path.git' 'trunk'
+
+[progs/games/binarypuzzle.com/garden]
+checkout = git clone 'git@github.com:shlomif/binary-puzzle-garden.git' 'garden'
+
+[progs/games/black-hole-solitaire/trunk]
+checkout = git clone 'git@github.com:shlomif/black-hole-solitaire.git' 'trunk'
+
+[progs/games/black-hole-solitaire/trunk/black-hole-solitaire/c-solver/xxHash-wrapper]
+checkout = git clone 'https://github.com/shlomif/xxHash-wrapper.git' 'xxHash-wrapper'
+
+[progs/games/fortune2rpm/fortunes-to-package]
+checkout = git clone 'https://github.com/shlomif/fortunes-to-packages' 'fortunes-to-package'
+
+[progs/games/fortune2rpm/fortunes-to-package/generic-fortune-rpm-spec/fortunes]
+checkout = git clone 'https://github.com/JKirchartz/fortunes' 'fortunes'
+
+[progs/games/hitori/trunk]
+checkout = git clone 'https://github.com/shlomif/hitori' 'trunk'
+
+[progs/games/infectors]
+checkout = git clone 'https://github.com/shlomif/infectors.git' 'infectors'
+
+[progs/games/kakuro/trunk]
+checkout = git clone 'https://github.com/shlomif/kakuro-cross-sums' 'trunk'
+
+[progs/games/nurikabe/trunk]
+checkout = git clone 'https://github.com/shlomif/nurikabe' 'trunk'
+
+[progs/games/pysolfc/git/PySolFC]
+checkout = git clone 'git@github.com:shlomif/PySolFC.git' 'PySolFC'
+
+[progs/games/pysolfc/git/pysolfc-web-site]
+checkout = git clone 'https://github.com/shlomif/pysolfc-website.git' 'pysolfc-web-site'
+
+[progs/ip-noise]
+checkout = git clone 'https://github.com/shlomif/ip-noise' 'ip-noise'
+
+[progs/java/Eclipse/workspace/NurikabeGarden]
+checkout = svn co 'svn+ssh://shlomif@svn.code.sf.net/p/nurikabe-maker/code/trunk' 'NurikabeGarden'
+
+[progs/java/NurikabeGarden]
+checkout = git clone 'git@github.com:shlomif/Nurikabe-Garden.git' 'NurikabeGarden'
+
+[progs/kde/file-manager/lmn]
+checkout = git clone 'https://github.com/shlomif/lmn' 'lmn'
+
+[progs/libxmp/split-module-music-file-into-channel-WAVs]
+checkout = git clone 'git@github.com:shlomif/split-module-music-file-into-channel-WAVs.git' 'split-module-music-file-into-channel-WAVs'
+
+[progs/mikmod/java/mikmod-for-java-jmikmod]
+checkout = git clone 'https://github.com/shlomif/mikmod-for-java-jmikmod' 'mikmod-for-java-jmikmod'
+
+[progs/perl/Docs/hg/perl]
+checkout = git clone 'https://github.com/shlomif/perl5-xs-guide' 'perl'
+
+[progs/perl/PDL/git]
+checkout = git clone 'git@github.com:shlomif/perl-PDL-Lib-Linear-Solve.git' 'git'
+
+[progs/perl/Quizzes/QOTW-repositories/Sokoban-Solver]
+checkout = git clone 'https://github.com/shlomif/sokoban-solver' 'Sokoban-Solver'
+
+[progs/perl/Quizzes/QOTW-repositories/quiz_of_the_week]
+checkout = git clone 'git@github.com:shlomif/Perl-Quiz-of-the-Whatever.git' 'quiz_of_the_week'
+
+[progs/perl/Quizzes/QOTW-repositories/sports-tournament-hg]
+checkout = git clone 'https://github.com/shlomif/sport-tournament-perl-quiz-of-the-week' 'sports-tournament-hg'
+
+[progs/perl/Quizzes/shlomif-perl-random-Quizzes]
+checkout = git clone 'git@github.com:shlomif/shlomif-perl-random-Quizzes.git' 'shlomif-perl-random-Quizzes'
+
+[progs/perl/cpan/Acme/Acme-CPANAuthors-Israeli]
+checkout = git clone 'git@github.com:shlomif/perl-Acme-CPANAuthors-Israeli.git' 'Acme-CPANAuthors-Israeli'
+
+[progs/perl/cpan/Acme/Acme-Gosub]
+checkout = git clone 'https://github.com/shlomif/perl-acme-gosub' 'Acme-Gosub'
+
+[progs/perl/cpan/Acme/Acme-MetaSyntactic-mlpfim/git]
+checkout = git clone 'git@github.com:shlomif/perl-Acme-MetaSyntactic-mlpfim.git' 'git'
+
+[progs/perl/cpan/App/App-gimpgitbuild]
+checkout = git clone 'https://github.com/shlomif/App-gimpgitbuild' 'App-gimpgitbuild'
+
+[progs/perl/cpan/App/App-xspf2m3u]
+checkout = git clone 'https://github.com/shlomif/App-xspf2m3u' 'App-xspf2m3u'
+
+[progs/perl/cpan/App/CSV2Chart]
+checkout = git clone 'git@github.com:shlomif/CSV2Chart.git' 'CSV2Chart'
+
+[progs/perl/cpan/App/Catable/catable]
+checkout = git clone 'git@github.com:shlomif/catable.git' 'catable'
+
+[progs/perl/cpan/App/Countdown/App-Countdown]
+checkout = git clone 'git@github.com:shlomif/App-Countdown.git' 'App-Countdown'
+
+[progs/perl/cpan/App/Deps/perl-App-Deps-Verify]
+checkout = git clone 'https://github.com/shlomif/perl-App-Deps-Verify' 'perl-App-Deps-Verify'
+
+[progs/perl/cpan/App/Docmake/trunk]
+checkout = git clone 'git@github.com:shlomif/docmake.git' 'trunk'
+
+[progs/perl/cpan/App/Du-Analyze/git]
+checkout = git clone 'git@github.com:shlomif/perl-App-Du-Analyze.git' 'git'
+
+[progs/perl/cpan/App/G/perl-App-Gezer]
+checkout = git clone 'git@github.com:shlomif/perl-App-Gezer.git' 'perl-App-Gezer'
+
+[progs/perl/cpan/App/Git/perl-App-Git-Info]
+checkout = git clone 'git@github.com:shlomif/perl-App-Git-Info.git' 'perl-App-Git-Info'
+
+[progs/perl/cpan/App/Notifier/App-Notifier]
+checkout = git clone 'ssh://git@github.com/shlomif/app-notifier' 'App-Notifier'
+
+[progs/perl/cpan/App/SVG/git]
+checkout = git clone 'git@github.com:shlomif/perl-App-SVG-Graph.git' 'git'
+
+[progs/perl/cpan/App/Sky/git]
+checkout = git clone 'git@github.com:shlomif/Sky-uploader.git' 'git'
+
+[progs/perl/cpan/App/Tac_n]
+checkout = git clone 'git@github.com:shlomif/Tac_n.git' 'Tac_n'
+
+[progs/perl/cpan/App/Timestamper/App-Timestamper-Format]
+checkout = git clone 'https://github.com/shlomif/App-Timestamper-Format' 'App-Timestamper-Format'
+
+[progs/perl/cpan/App/Timestamper/git]
+checkout = git clone 'git@github.com:shlomif/App-Timestamper.git' 'git'
+
+[progs/perl/cpan/App/intsum/git]
+checkout = git clone 'https://github.com/shlomif/App-intsum.git' 'git'
+
+[progs/perl/cpan/App/magpie/app-magpie]
+checkout = git clone 'git@github.com:shlomif/app-magpie.git' 'app-magpie'
+
+[progs/perl/cpan/App/maniac-downloader/git]
+checkout = git clone 'https://github.com/shlomif/maniac-downloader.git' 'git'
+
+[progs/perl/cpan/Art-Directory/hg]
+checkout = git clone 'https://github.com/shlomif/web-dir-for-artwork' 'hg'
+
+[progs/perl/cpan/CGI/web-nntp-iface]
+checkout = git clone 'https://github.com/shlomif/perl-cgi-application-netnewsiface' 'web-nntp-iface'
+
+[progs/perl/cpan/CPAN/CPAN-Module-Classification]
+checkout = git clone 'git@github.com:shlomif/CPAN-Module-Classification.git' 'CPAN-Module-Classification'
+
+[progs/perl/cpan/CPAN/Smoke-AutoSetup/trunk]
+checkout = git clone 'https://github.com/shlomif/cpan-smoke-auto-setup' 'trunk'
+
+[progs/perl/cpan/CPAN/rethinking-cpan]
+checkout = git clone 'https://github.com/shlomif/rethinking-cpan' 'rethinking-cpan'
+
+[progs/perl/cpan/CPANPLUS/Dist/Fedora/trunk]
+checkout = git clone 'https://github.com/shlomif/cpanplus-dist-backends' 'trunk'
+
+[progs/perl/cpan/Cache/git/Cache]
+checkout = git clone 'git@github.com:shlomif/Cache.git' 'Cache'
+
+[progs/perl/cpan/Class/Generate/Class-Generate]
+checkout = git clone 'git@github.com:shlomif/perl-Class-Generate.git' 'Class-Generate'
+
+[progs/perl/cpan/Clipboard]
+checkout = git clone 'git@github.com:shlomif/Clipboard.git' 'Clipboard'
+
+[progs/perl/cpan/Code/perl-Code-TidyAll-Plugin-ClangFormat]
+checkout = git clone 'git@github.com:shlomif/perl-Code-TidyAll-Plugin-ClangFormat.git' 'perl-Code-TidyAll-Plugin-ClangFormat'
+
+[progs/perl/cpan/Code/perl-Code-TidyAll-Plugin-Flake8]
+checkout = git clone 'https://github.com/shlomif/perl-Code-TidyAll-Plugin-Flake8' 'perl-Code-TidyAll-Plugin-Flake8'
+
+[progs/perl/cpan/Code/perl-Code-TidyAll-Plugin-TSLint]
+checkout = git clone 'git@github.com:shlomif/perl-Code-TidyAll-Plugin-TSLint.git' 'perl-Code-TidyAll-Plugin-TSLint'
+
+[progs/perl/cpan/Code/perl-Code-TidyAll-Plugin-TestCount]
+checkout = git clone 'git@github.com:shlomif/perl-Code-TidyAll-Plugin-TestCount.git' 'perl-Code-TidyAll-Plugin-TestCount'
+
+[progs/perl/cpan/Config/IniFiles/git]
+checkout = git clone 'git@github.com:shlomif/perl-Config-IniFiles.git' 'git'
+
+[progs/perl/cpan/Devel/LineTrace/trunk]
+checkout = git clone 'https://github.com/shlomif/perl-devel-linetrace' 'trunk'
+
+[progs/perl/cpan/Digest/JHash/Digest-JHash]
+checkout = git clone 'git@github.com:shlomif/perl-Digest-JHash.git' 'Digest-JHash'
+
+[progs/perl/cpan/Dir/Manifest/Dir-Manifest]
+checkout = git clone 'git@github.com:shlomif/Dir-Manifest.git' 'Dir-Manifest'
+
+[progs/perl/cpan/Dist/Zilla/Dist-Zilla-Plugin-Test-TrailingSpace/git]
+checkout = git clone 'git@github.com:shlomif/Dist-Zilla-Plugin-Test-TrailingSpace.git' 'git'
+
+[progs/perl/cpan/Dist/Zilla/Dist-Zilla-Plugin-TestRun]
+checkout = git clone 'git@github.com:shlomif/perl-Dist-Zilla-Plugin-TestRun.git' 'Dist-Zilla-Plugin-TestRun'
+
+[progs/perl/cpan/Dist/Zilla/bundles/Dist-Zilla-PluginBundle-SHLOMIF]
+checkout = git clone 'git@github.com:shlomif/Dist-Zilla-PluginBundle-SHLOMIF.git' 'Dist-Zilla-PluginBundle-SHLOMIF'
+
+[progs/perl/cpan/Dist/Zilla/document-of-the-dist.ini-format/dzil-dist-ini-format-documentation]
+checkout = git clone 'git@github.com:shlomif/dzil-dist-ini-format-documentation.git' 'dzil-dist-ini-format-documentation'
+
+[progs/perl/cpan/Docker-CLI-Wrapper]
+checkout = git clone 'https://github.com/shlomif/Docker-CLI-Wrapper' 'Docker-CLI-Wrapper'
+
+[progs/perl/cpan/Email/Grep/git]
+checkout = git clone 'git@github.com:shlomif/Email-Grep.git' 'git'
+
+[progs/perl/cpan/Error/Error.pm]
+checkout = git clone 'https://github.com/shlomif/perl-error.pm' 'Error.pm'
+
+[progs/perl/cpan/File/Dir-Dumper/trunk]
+checkout = git clone 'git@github.com:shlomif/perl-File-Dir-Dumper.git' 'trunk'
+
+[progs/perl/cpan/File/Find-Object/from-berlios/trunk]
+checkout = git clone 'https://github.com/shlomif/perl-file-find-object-rule' 'trunk'
+
+[progs/perl/cpan/File/Find-Object/trunk]
+checkout = git clone 'https://github.com/shlomif/perl-file-find-object' 'trunk'
+
+[progs/perl/cpan/File/Format-CRD/trunk]
+checkout = git clone 'https://github.com/shlomif/perl-file-format-crd' 'trunk'
+
+[progs/perl/cpan/File/Remove/File-Remove]
+checkout = git clone 'git@github.com:shlomif/File-Remove.git' 'File-Remove'
+
+[progs/perl/cpan/File/perl-File-Find-CaseCollide]
+checkout = git clone 'https://github.com/shlomif/perl-File-Find-CaseCollide' 'perl-File-Find-CaseCollide'
+
+[progs/perl/cpan/File/perl-File-IsSorted]
+checkout = git clone 'https://github.com/shlomif/perl-File-IsSorted' 'perl-File-IsSorted'
+
+[progs/perl/cpan/File/perl-File-ShouldUpdate]
+checkout = git clone 'git@github.com:shlomif/perl-File-ShouldUpdate.git' 'perl-File-ShouldUpdate'
+
+[progs/perl/cpan/File/perl-File-TreeCreate]
+checkout = git clone 'git@github.com:shlomif/perl-File-TreeCreate.git' 'perl-File-TreeCreate'
+
+[progs/perl/cpan/File/perl-File-Update]
+checkout = git clone 'https://github.com/shlomif/perl-File-Update' 'perl-File-Update'
+
+[progs/perl/cpan/Git/Git-Sync]
+checkout = git clone 'git@github.com:shlomif/Git-Sync.git' 'Git-Sync'
+
+[progs/perl/cpan/Graph-Easy-As_svg]
+checkout = git clone 'https://github.com/shlomif/Graph-Easy-As_svg' 'Graph-Easy-As_svg'
+
+[progs/perl/cpan/HTML/Acronyms/git]
+checkout = git clone 'https://github.com/shlomif/HTML-Acronyms' 'git'
+
+[progs/perl/cpan/HTML/HTML-T5]
+checkout = git clone 'git@github.com:shlomif/html-tidy5.git' 'HTML-T5'
+
+[progs/perl/cpan/HTML/Links/Localize/hg/HTML-Links-Localize]
+checkout = git clone 'https://github.com/shlomif/perl-html-links-localize' 'HTML-Links-Localize'
+
+[progs/perl/cpan/HTML/Spelling/git]
+checkout = git clone 'git@github.com:shlomif/HTML-Spelling-Site.git' 'git'
+
+[progs/perl/cpan/HTML/Strip-Whitespace]
+checkout = git clone 'https://github.com/shlomif/perl-html-strip-whitespace' 'Strip-Whitespace'
+
+[progs/perl/cpan/HTML/TabbedExamples-Generate/trunk]
+checkout = git clone 'https://github.com/shlomif/perl-html-tabbedexamples-generate' 'trunk'
+
+[progs/perl/cpan/IO/All/io-all-pm]
+checkout = git clone 'git@github.com:shlomif/io-all-pm.git' 'io-all-pm'
+
+[progs/perl/cpan/IO/perl-io-socket-inet6]
+checkout = git clone 'https://github.com/shlomif/perl-io-socket-inet6' 'perl-io-socket-inet6'
+
+[progs/perl/cpan/Inline/Inline-Ruby]
+checkout = git clone 'git@github.com:shlomif/Inline-Ruby.git' 'Inline-Ruby'
+
+[progs/perl/cpan/Lingua/ita2heb]
+checkout = git clone 'git@github.com:shlomif/ita2heb.git' 'ita2heb'
+
+[progs/perl/cpan/Mail/LMLM/hg/Mail-LMLM]
+checkout = git clone 'https://github.com/shlomif/perl-mail-lmlm' 'Mail-LMLM'
+
+[progs/perl/cpan/Mail/LMLM/hg/list-of-mailing-lists]
+checkout = git clone 'https://github.com/Hamakor/list-of-israeli-linux-related-mailing-lists' 'list-of-mailing-lists'
+
+[progs/perl/cpan/Math/FFT/Math-FFT]
+checkout = git clone 'git@github.com:shlomif/perl-Math-FFT.git' 'Math-FFT'
+
+[progs/perl/cpan/Math/GMP/Math-GMP]
+checkout = git clone 'git@github.com:turnstep/Math-GMP.git' 'Math-GMP'
+
+[progs/perl/cpan/Math/Math-Cephes]
+checkout = git clone 'git@github.com:shlomif/Math-Cephes.git' 'Math-Cephes'
+
+[progs/perl/cpan/Math/Math-Complex]
+checkout = git clone 'git@github.com:shlomif/Math-Complex.git' 'Math-Complex'
+
+[progs/perl/cpan/Math/perl-math-grahamfunction]
+checkout = git clone 'https://github.com/shlomif/perl-math-grahamfunction' 'perl-math-grahamfunction'
+
+[progs/perl/cpan/MediaWiki/CleanupHTML/trunk]
+checkout = git clone 'https://github.com/shlomif/perl-mediawiki-cleanuphtml' 'trunk'
+
+[progs/perl/cpan/Module/perl-Module-Format]
+checkout = git clone 'git@github.com:shlomif/perl-Module-Format.git' 'perl-Module-Format'
+
+[progs/perl/cpan/Module/perl-Module-Format-AsHTML]
+checkout = git clone 'git@github.com:shlomif/perl-Module-Format-AsHTML.git' 'perl-Module-Format-AsHTML'
+
+[progs/perl/cpan/Mojo/mojo-server-fcgi]
+checkout = git clone 'git@github.com:insurgentsoftware/mojo-server-fcgi.git' 'mojo-server-fcgi'
+
+[progs/perl/cpan/Mousable/mousable]
+checkout = git clone 'git@github.com:shlomif/mousable.git' 'mousable'
+
+[progs/perl/cpan/Object/Declare/Object-Declare]
+checkout = git clone 'git@github.com:shlomif/perl-Object-Declare.git' 'Object-Declare'
+
+[progs/perl/cpan/PerlIO/PerlIO-eol]
+checkout = git clone 'git@github.com:shlomif/PerlIO-eol.git' 'PerlIO-eol'
+
+[progs/perl/cpan/Pod/perl-Pod-Weaver-PluginBundle-SHLOMIF]
+checkout = git clone 'https://github.com/shlomif/perl-Pod-Weaver-PluginBundle-SHLOMIF' 'perl-Pod-Weaver-PluginBundle-SHLOMIF'
+
+[progs/perl/cpan/Pod/perl-pod-weaver-section-support]
+checkout = git clone 'https://github.com/shlomif/perl-pod-weaver-section-support.git' 'perl-pod-weaver-section-support'
+
+[progs/perl/cpan/SDL/SDLx-Betweener]
+checkout = git clone 'git@github.com:eilara/SDLx-Betweener.git' 'SDLx-Betweener'
+
+[progs/perl/cpan/SQ/git]
+checkout = git clone 'git@github.com:shlomif/perl-SQ.git' 'git'
+
+[progs/perl/cpan/SVN/Pusher/SVN-Pusher]
+checkout = git clone 'https://github.com/shlomif/perl-svn-pusher' 'SVN-Pusher'
+
+[progs/perl/cpan/SVN/RaWeb-Light/trunk]
+checkout = git clone 'https://github.com/shlomif/perl-svn-raweb-light' 'trunk'
+
+[progs/perl/cpan/Set/Set-CSS]
+checkout = git clone 'git@github.com:shlomif/Set-CSS.git' 'Set-CSS'
+
+[progs/perl/cpan/Spork/Shlomify/Spork-Shlomify]
+checkout = git clone 'git@github.com:shlomif/perl-Spork-Shlomify.git' 'Spork-Shlomify'
+
+[progs/perl/cpan/Statistics/trunk]
+checkout = git clone 'git@github.com:shlomif/perl-Statistics-Descriptive.git' 'trunk'
+
+[progs/perl/cpan/String/String-Random]
+checkout = git clone 'git@github.com:shlomif/String-Random.git' 'String-Random'
+
+[progs/perl/cpan/Symlink/Symlink-DSL]
+checkout = git clone 'git@github.com:shlomif/Symlink-DSL.git' 'Symlink-DSL'
+
+[progs/perl/cpan/Task/BeLike/git]
+checkout = git clone 'https://github.com/shlomif/Task-BeLike-SHLOMIF.git' 'git'
+
+[progs/perl/cpan/Template/Template-Stash-AutoEscaping]
+checkout = git clone 'git@github.com:shlomif/Template-Stash-AutoEscaping.git' 'Template-Stash-AutoEscaping'
+
+[progs/perl/cpan/Term/Shell/Term-Shell]
+checkout = git clone 'git@github.com:shlomif/Term-Shell.git' 'Term-Shell'
+
+[progs/perl/cpan/Test/Count/trunk]
+checkout = git clone 'https://github.com/shlomif/perl-test-count' 'trunk'
+
+[progs/perl/cpan/Test/Data-Split/perl-Test-Data-Split]
+checkout = git clone 'git@github.com:shlomif/perl-Test-Data-Split.git' 'perl-Test-Data-Split'
+
+[progs/perl/cpan/Test/HTML/Test-HTML-Recursive-DeprecatedTags]
+checkout = git clone 'https://github.com/shlomif/perl-Test-HTML-Recursive-DeprecatedTags.git' 'Test-HTML-Recursive-DeprecatedTags'
+
+[progs/perl/cpan/Test/HTML/Test-HTML-Tidy-Recursive]
+checkout = git clone 'git@github.com:shlomif/perl-Test-HTML-Tidy-Recursive.git' 'Test-HTML-Tidy-Recursive'
+
+[progs/perl/cpan/Test/RunValgrind/git]
+checkout = git clone 'https://github.com/shlomif/perl-Test-RunValgrind' 'git'
+
+[progs/perl/cpan/Test/Test-Harness/Test-Harness]
+checkout = git clone 'git@github.com:shlomif/Test-Harness.git' 'Test-Harness'
+
+[progs/perl/cpan/Test/Test-Harness/trunk]
+checkout = git clone 'git@github.com:shlomif/perl-test-run.git' 'trunk'
+
+[progs/perl/cpan/Test/Test-PerlTidy]
+checkout = git clone 'git@github.com:shlomif/Test-PerlTidy.git' 'Test-PerlTidy'
+
+[progs/perl/cpan/Test/Test-TrailingSpace]
+checkout = git clone 'https://github.com/shlomif/perl-test-trailingspace' 'Test-TrailingSpace'
+
+[progs/perl/cpan/Test/WWW/Mechanize/LibXML/Test-WWW-Mechanize-LibXML]
+checkout = git clone 'git@github.com:shlomif/perl-Test-WWW-Mechanize-LibXML.git' 'Test-WWW-Mechanize-LibXML'
+
+[progs/perl/cpan/Test/WWW/Mechanize/trunk]
+checkout = git clone 'https://github.com/shlomif/perl-test-www-mechanize-mojo' 'trunk'
+
+[progs/perl/cpan/Test/XML-Ordered/trunk]
+checkout = git clone 'https://github.com/shlomif/test-xml-ordered' 'trunk'
+
+[progs/perl/cpan/Test/test-more]
+checkout = git clone 'git@github.com:shlomif/test-more.git' 'test-more'
+
+[progs/perl/cpan/Text/Aligner/git/Text-Aligner]
+checkout = git clone 'git@github.com:shlomif/Text-Aligner.git' 'Text-Aligner'
+
+[progs/perl/cpan/Text/Sprintf/Text-Sprintf]
+checkout = git clone 'https://github.com/shlomif/perl-text-sprintf' 'Text-Sprintf'
+
+[progs/perl/cpan/Text/Table/git]
+checkout = git clone 'git@github.com:shlomif/Text-Table.git' 'git'
+
+[progs/perl/cpan/Text/Text-Hspell]
+checkout = git clone 'https://github.com/shlomif/Text-Hspell' 'Text-Hspell'
+
+[progs/perl/cpan/Text/WrapAsUtf8/git]
+checkout = git clone 'https://github.com/shlomif/Text-WrapAsUtf8.git' 'git'
+
+[progs/perl/cpan/WWW/Form/www-form]
+checkout = git clone 'https://github.com/shlomif/perl-www-form' 'www-form'
+
+[progs/perl/cpan/WWW/LinkChecker/trunk]
+checkout = git clone 'https://github.com/shlomif/perl-www-linkchecker-internal' 'trunk'
+
+[progs/perl/cpan/WWW/Search/trunk]
+checkout = git clone 'https://github.com/shlomif/www-search-backends' 'trunk'
+
+[progs/perl/cpan/WebService--Gyazo]
+checkout = git clone 'git@github.com:shlomif/WebService--Gyazo.git' 'WebService--Gyazo'
+
+[progs/perl/cpan/XML/Amazon/XML-Amazon]
+checkout = git clone 'git@github.com:shlomif/perl-XML-Amazon.git' 'XML-Amazon'
+
+[progs/perl/cpan/XML/CompareML/trunk]
+checkout = git clone 'https://github.com/shlomif/xml-compareml' 'trunk'
+
+[progs/perl/cpan/XML/Grammar/Base/trunk]
+checkout = git clone 'git@github.com:shlomif/perl-XML-GrammarBase.git' 'trunk'
+
+[progs/perl/cpan/XML/Grammar/Fiction/old-trunk]
+checkout = git clone 'git@github.com:shlomif/fiction-xml.git' 'old-trunk'
+
+[progs/perl/cpan/XML/Grammar/Fiction/trunk]
+checkout = git clone 'git@github.com:shlomif/fiction-xml.git' 'trunk'
+
+[progs/perl/cpan/XML/Grammar/Fortune/trunk]
+checkout = git clone 'https://github.com/shlomif/fortune-xml' 'trunk'
+
+[progs/perl/cpan/XML/Grammar/ProductsSyndication/repo/XML-Grammar-ProductsSyndication]
+checkout = git clone 'https://github.com/shlomif/perl-xml-grammar-productssyndication' 'XML-Grammar-ProductsSyndication'
+
+[progs/perl/cpan/XML/Grammar/Vered/XML-Grammar-Vered]
+checkout = git clone 'https://github.com/shlomif/XML-Grammar-Vered' 'XML-Grammar-Vered'
+
+[progs/perl/cpan/XML/LibXML/git/perl-XML-LibXML]
+checkout = git clone 'git@github.com:shlomif/perl-XML-LibXML.git' 'perl-XML-LibXML'
+
+[progs/perl/cpan/XML/LibXML/hg/bugs/perl-xml-libxml-bugs]
+checkout = git clone 'https://github.com/shlomif/perl-xml-libxml-bugs' 'perl-xml-libxml-bugs'
+
+[progs/perl/cpan/XML/LibXSLT/git/perl-xml-libxslt]
+checkout = git clone 'git@github.com:shlomif/perl-XML-LibXSLT.git' 'perl-xml-libxslt'
+
+[progs/perl/cpan/XML/RSS/from-perl.org/trunk]
+checkout = git clone 'git@github.com:shlomif/perl-XML-RSS.git' 'trunk'
+
+[progs/perl/cpan/XML/SemanticDiff/trunk]
+checkout = git clone 'git@github.com:shlomif/perl-XML-SemanticDiff.git' 'trunk'
+
+[progs/perl/cpan/mojomojo-deps]
+checkout = git clone 'git@github.com:shlomif/CPAN-Dist-Deps-Size-Calculate.git' 'mojomojo-deps'
+
+[progs/perl/cpan/perl-Parallel-ForkManager-Segmented]
+checkout = git clone 'https://github.com/shlomif/perl-Parallel-ForkManager-Segmented' 'perl-Parallel-ForkManager-Segmented'
+
+[progs/perl/forums/irc/freenode/ZadYree/git]
+checkout = git clone 'https://github.com/shlomif/perl-ipc-run-example' 'git'
+
+[progs/perl/gimp/Gimp-Test/trunk/gimp-test]
+checkout = git clone 'https://github.com/shlomif/gimp-test-suite' 'gimp-test'
+
+[progs/perl/math/3x+1/collatz-conjecture]
+checkout = git clone 'git@github.com:shlomif/collatz-conjecture.git' 'collatz-conjecture'
+
+[progs/perl/mazes/git/lm-solve-source]
+checkout = git clone 'git@github.com:shlomif/lm-solve-source.git' 'lm-solve-source'
+
+[progs/perl/mazes/layouts]
+checkout = git clone 'https://github.com/shlomif/lm-solve-layouts' 'layouts'
+
+[progs/perl/mazes/site/git]
+checkout = git clone 'https://github.com/shlomif/lm-solve-site' 'git'
+
+[progs/perl/old/FAQ]
+checkout = git clone 'git@github.com:shlomif/Old-Linux-IL-FAQ.git' 'FAQ'
+
+[progs/perl/qt/git]
+checkout = git clone 'https://github.com/shlomif/qt-minicalc' 'git'
+
+[progs/perl/snippets]
+checkout = git clone 'git@github.com:shlomif/shlomif-snippets.git' 'snippets'
+
+[progs/perl/snippets/pdl]
+checkout = git clone 'https://github.com/PDLPorters/pdl' 'pdl'
+
+[progs/perl/www/Flickr/trunk]
+checkout = git clone 'https://github.com/shlomif/flickr-uploader' 'trunk'
+
+[progs/perl/www/Nav-Menu/trunk]
+checkout = git clone 'git@github.com:shlomif/perl-HTML-Widgets-NavMenu.git' 'trunk'
+
+[progs/perl/www/RSS/blogs-aggregate/trunk]
+checkout = git clone 'https://github.com/shlomif/shlomif-blogs-aggregate' 'trunk'
+
+[progs/perl/www/Web-Cpan-Site/assets/git]
+checkout = git clone 'git@github.com:shlomif/web-cpan-site-assets.git' 'git'
+
+[progs/perl/www/Web-Cpan-Site/trunk]
+checkout = git clone 'https://github.com/shlomif/web-cpan-site' 'trunk'
+
+[progs/perl/www/august-penguin-registration-form--in-perl5]
+checkout = git clone 'https://github.com/Hamakor/august-penguin-registration-form--in-perl5' 'august-penguin-registration-form--in-perl5'
+
+[progs/python/chinese-remainder/git]
+checkout = git clone 'git@github.com:shlomif/modint.git' 'git'
+
+[progs/python/euler685-python3-solution-high-ram-consumption]
+checkout = git clone 'git@github.com:shlomif/euler685-python3-solution-high-ram-consumption.git' 'euler685-python3-solution-high-ram-consumption'
+
+[progs/python/lp_solve-kakurasu-solver]
+checkout = git clone 'https://github.com/shlomif/lp-based-puzzle-solvers' 'lp_solve-kakurasu-solver'
+
+[progs/python/pydistman]
+checkout = git clone 'https://github.com/shlomif/pydistman' 'pydistman'
+
+[progs/python/pyperl]
+checkout = git clone 'git@github.com:shlomif/pyperl.git' 'pyperl'
+
+[progs/python/rebookmaker]
+checkout = git clone 'git@github.com:shlomif/rebookmaker.git' 'rebookmaker'
+
+[progs/python/rebookmaker/epub_maker/jinja]
+checkout = git clone 'https://github.com/pallets/jinja/' 'jinja'
+
+[progs/python/shift_divmod]
+checkout = git clone 'https://github.com/shlomif/shift_divmod' 'shift_divmod'
+
+[progs/python/sum_walker]
+checkout = git clone 'git@github.com:shlomif/sum_walker.git' 'sum_walker'
+
+[progs/python/vnu/python-vnu_validator]
+checkout = git clone 'git@github.com:shlomif/python-vnu_validator.git' 'python-vnu_validator'
+
+[progs/python/zenfilter]
+checkout = git clone 'git@github.com:shlomif/zenfilter.git' 'zenfilter'
+
+[progs/quadpres/trunk]
+checkout = git clone 'git@github.com:shlomif/quad-pres.git' 'trunk'
+
+[progs/racket/git]
+checkout = git clone 'https://github.com/shlomif/shlomif-racket-playground' 'git'
+
+[progs/riddles/fizz-buzz/fizz-buzz]
+checkout = git clone 'https://github.com/shlomif/fizz-buzz.git' 'fizz-buzz'
+
+[progs/riddles/gaal-yahas/not-a-not-b-not-c]
+checkout = git clone 'https://github.com/shlomif/riddle-not-a-not-b-not-c' 'not-a-not-b-not-c'
+
+[progs/riddles/golf/golf.shinh.org/caddy-tool-for-golfers/caddy]
+checkout = git clone 'git@github.com:shlomif/caddy.git' 'caddy'
+
+[progs/riddles/hacker-rank/git]
+checkout = git clone 'git@bitbucket.org:shlomif/hacker-rank.git' 'git'
+
+[progs/riddles/project-euler/euler630-mniip]
+checkout = git clone 'https://github.com/hasufell/euler630-mniip' 'euler630-mniip'
+
+[progs/riddles/project-euler/euler662-pypy3-vs-cpython3]
+checkout = git clone 'git@github.com:shlomif/euler662-pypy3-vs-cpython3.git' 'euler662-pypy3-vs-cpython3'
+
+[progs/riddles/project-euler/git]
+checkout = git clone 'git@github.com:shlomif/project-euler-git.git' 'git'
+
+[progs/riddles/project-euler/git/temp-git]
+checkout = git clone '/home/shlomif/progs/riddles/project-euler/git/.' 'temp-git'
+
+[progs/riddles/project-euler/project-euler-first-100-problems]
+checkout = git clone 'git@github.com:shlomif/project-euler-first-100-problems.git' 'project-euler-first-100-problems'
+
+[progs/riddles/project-euler/project-euler-prob-10]
+checkout = git clone 'git@github.com:shlomif/Project-Euler-Problem-10-Comparison.git' 'project-euler-prob-10'
+
+[progs/riddles/project-euler/pypy-pickle-benchmark]
+checkout = git clone 'git@github.com:shlomif/pypy-pickle-benchmark.git' 'pypy-pickle-benchmark'
+
+[progs/riddles/project-euler/pypy3-code--slowdown]
+checkout = git clone 'git@github.com:shlomif/pypy3-code--slowdown.git' 'pypy3-code--slowdown'
+
+[progs/riddles/project-euler/roosephu--git]
+checkout = git clone 'https://github.com/shlomif/roosephu--project-euler' 'roosephu--git'
+
+[progs/riddles/project-euler/shlomif-euler156]
+checkout = git clone 'git@github.com:shlomif/shlomif-euler156.git' 'shlomif-euler156'
+
+[progs/rshasum]
+checkout = git clone 'https://github.com/shlomif/rshasum.git' 'rshasum'
+
+[progs/rust/tutorial-progs/git]
+checkout = git clone 'git@github.com:shlomif/rust-progs.git' 'git'
+
+[progs/smalltalk/learning]
+checkout = git clone 'git@github.com:shlomif/smalltalk-learning-programs.git' 'learning'
+
+[progs/vim/add-to-search-word/add-to-word-search.vim]
+checkout = git clone 'git@github.com:shlomif/add-to-word-search.vim.git' 'add-to-word-search.vim'
+
+[progs/vim/range-search/git]
+checkout = git clone 'git@github.com:shlomif/range-search.vim.git' 'git'
+
+[progs/vim/syntax-spork]
+checkout = git clone 'https://github.com/shlomif/syntax-spork.git' 'syntax-spork'
+
+[progs/vim/vim-extract-variable]
+checkout = git clone 'git@github.com:shlomif/vim-extract-variable.git' 'vim-extract-variable'
+
+[progs/vim/vim-freecell]
+checkout = git clone 'https://github.com/shlomif/vim-freecell' 'vim-freecell'
+
+[progs/vim/vim-screenplay-text]
+checkout = git clone 'git@github.com:shlomif/vim-screenplay-text.git' 'vim-screenplay-text'
+
+[progs/wml/Latemp/cookiecutter--shlomif-latemp-sites]
+checkout = git clone 'https://github.com/shlomif/cookiecutter--shlomif-latemp-sites.git' 'cookiecutter--shlomif-latemp-sites'
+
+[progs/wml/Latemp/latemp/trunk]
+checkout = git clone 'git@github.com:thewml/latemp.git' 'trunk'
+
+[progs/wml/Latemp/shlomi-fish-sites--fonts]
+checkout = git clone 'git@github.com:shlomif/shlomi-fish-sites--fonts.git' 'shlomi-fish-sites--fonts'
+
+[progs/wml/article-template/trunk]
+checkout = git clone 'https://github.com/shlomif/article-template' 'trunk'
+
+[progs/wml/wml-itself/core/trunk]
+checkout = git clone 'git@github.com:thewml/website-meta-language.git' 'trunk'
+
+[progs/wml/wml-itself/extended-apis/wml-extended-apis]
+checkout = git clone 'https://github.com/thewml/wml-extended-apis' 'wml-extended-apis'
+
+[progs/wml/wml-itself/site/trunk]
+checkout = git clone 'https://github.com/thewml/thewml.org-site' 'trunk'
